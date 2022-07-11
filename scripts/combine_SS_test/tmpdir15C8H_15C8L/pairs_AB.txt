@@ -1,0 +1,2 @@
+ss_pred PSIPRED predicted secondary structure,ss_pred PSIPRED predicted secondary structure
+ss_conf PSIPRED confidence values,ss_conf PSIPRED confidence values

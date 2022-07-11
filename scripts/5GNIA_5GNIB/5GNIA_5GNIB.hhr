@@ -1,0 +1,1679 @@
+Query         5GNIA_5GNIB
+Match_columns 394
+No_of_seqs    160 out of 303
+Neff          9.6
+Searched_HMMs 50
+Date          Wed Jan 19 10:38:02 2022
+Command       /data/farhan/SoftwareTools/DeepComplexToolBox/tools/hhsuite-3.0-beta.3-Linux/bin/hhsearch -i /data/farhan/multicom4s/tool/multicom4s_TMB/scripts/5GNIA_5GNIB/5GNIA_5GNIB.hmm -d /data/farhan/multicom4s/tool/multicom4s_TMB/databases/sample_dimer_database/dimer_database -realign -mact 0 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1A7RH_1A7RL                     99.5 6.6E-21 1.3E-22  148.2   0.0  190    6-293     1-223 (223)
+  2 1A7OH_1A7OL                     99.5 7.7E-21 1.5E-22  147.8   0.0  189    6-293     1-222 (222)
+  3 1A7NH_1A7NL                     99.5 9.6E-21 1.9E-22  147.3   0.0  190    6-293     1-223 (223)
+  4 1A7OH_1A7OL                     99.4 3.9E-20 7.8E-22  143.4   0.0  182  202-390     1-222 (222)
+  5 1A7RH_1A7RL                     99.4 7.4E-20 1.5E-21  141.6   0.0  182  202-394     1-222 (223)
+  6 1A7NH_1A7NL                     99.4 1.4E-19 2.7E-21  140.0   0.0  182  202-394     1-222 (223)
+  7 1A6UL_1A6UH                     99.4 1.5E-19 2.9E-21  141.3   0.0  187  203-394     1-226 (228)
+  8 1A7QL_1A7QH                     99.4 1.5E-19 3.1E-21  140.1   0.0  192   92-394     1-220 (221)
+  9 1A6UL_1A6UH                     99.3 3.2E-19 6.3E-21  139.2   0.0  204    7-294     1-228 (228)
+ 10 1A1MA_1A1MB                     99.3 3.7E-19 7.4E-21  143.8   0.0  280    1-392    63-377 (377)
+ 11 1A6WH_1A6WL                     99.3 2.7E-18 5.3E-20  134.0   0.0  197    6-294     1-229 (229)
+ 12 1A7QL_1A7QH                     99.2 3.3E-18 6.6E-20  131.7   0.0  195    6-293     1-221 (221)
+ 13 1A6WH_1A6WL                     99.1 2.2E-17 4.5E-19  128.0   0.0  183  202-394     1-227 (229)
+ 14 1A1OB_1A1OA                     99.1 2.5E-17 5.1E-19  131.4   0.0  268   95-388     1-375 (375)
+ 15 1A1NB_1A1NA                     99.1 4.7E-17 9.4E-19  129.6   0.0  277   95-388     1-375 (375)
+ 16 1A1NB_1A1NA                     99.0 1.5E-16   3E-18  126.3   0.0  184    3-242     1-375 (375)
+ 17 1A1MA_1A1MB                     99.0 2.2E-16 4.5E-18  125.6   0.0  185    1-244   178-377 (377)
+ 18 1A1OB_1A1OA                     99.0 2.4E-16 4.8E-18  125.0   0.0  184    3-242     1-375 (375)
+ 19 1A9EB_1A9EA                     99.0 3.5E-16   7E-18  124.0   0.0  186    2-210     1-377 (377)
+ 20 1A9EB_1A9EA                     98.9 1.4E-15 2.7E-17  120.2   0.0  186  194-389     1-377 (377)
+ 21 1A9EB_1A9EA                     98.4 3.2E-13 6.3E-15  104.7   0.0  195   94-295     1-377 (377)
+ 22 1A6UL_1A6UH                     97.4 5.7E-10 1.1E-11   80.0   0.0   95    1-97    104-228 (228)
+ 23 1A7RH_1A7RL                     97.4 7.8E-10 1.6E-11   78.4   0.0   98  289-394     1-131 (223)
+ 24 1A7NH_1A7NL                     97.3 8.8E-10 1.8E-11   78.2   0.0   99  289-394     1-131 (223)
+ 25 1A7QL_1A7QH                     97.3   1E-09   2E-11   78.0   0.0   94    1-96     87-221 (221)
+ 26 1A7OH_1A7OL                     97.3   1E-09 2.1E-11   77.7   0.0   99  289-394     1-131 (222)
+ 27 1A7RH_1A7RL                     97.1 3.3E-09 6.6E-11   74.5   0.0  202   92-359     1-223 (223)
+ 28 1A7OH_1A7OL                     97.0 4.6E-09 9.3E-11   73.6   0.0  201   92-359     1-222 (222)
+ 29 1A1MA_1A1MB                     97.0 5.3E-09 1.1E-10   77.4   0.0  268    5-394     1-295 (377)
+ 30 1A7NH_1A7NL                     97.0 6.2E-09 1.2E-10   72.8   0.0   92    1-96     94-223 (223)
+ 31 1A6WH_1A6WL                     96.9 9.8E-09   2E-10   72.3   0.0   96    1-97    115-229 (229)
+ 32 1A1NB_1A1NA                     96.8 1.1E-08 2.3E-10   75.0   0.0  250    9-294     1-375 (375)
+ 33 1A7QL_1A7QH                     96.4 5.1E-08   1E-09   67.1   0.0   98  289-394     1-128 (221)
+ 34 1A1MA_1A1MB                     96.4 5.3E-08 1.1E-09   70.8   0.0   94    1-137   269-377 (377)
+ 35 no_name_0                       96.4 5.6E-08 1.1E-09   67.3   0.0  196    8-268     1-238 (238)
+ 36 1A6UL_1A6UH                     96.4 6.4E-08 1.3E-09   66.9   0.0   98  297-394     1-130 (228)
+ 37 1A1OB_1A1OA                     96.4 6.5E-08 1.3E-09   70.0   0.0  184  199-394     1-280 (375)
+ 38 1A6WH_1A6WL                     96.3 9.5E-08 1.9E-09   66.0   0.0   98  289-394     1-118 (229)
+ 39 no_name_0                       96.2 1.1E-07 2.2E-09   65.3   0.0  185  204-394     1-231 (238)
+ 40 1A1OB_1A1OA                     96.2 1.3E-07 2.7E-09   68.0   0.0  102  292-394     1-124 (375)
+ 41 1A1NB_1A1NA                     96.0 2.1E-07 4.2E-09   66.7   0.0  102  292-394     1-124 (375)
+ 42 1A9EB_1A9EA                     95.9 2.6E-07 5.1E-09   66.2   0.0  103  291-394     1-125 (377)
+ 43 no_name_0                       91.3 4.7E-05 9.3E-07   48.3   0.0  204   94-334     1-238 (238)
+ 44 no_name_0                       71.1  0.0019 3.7E-05   37.9   0.0  109    1-137   117-238 (238)
+
+No 1
+>1A7RH_1A7RL
+Probab=99.49  E-value=6.6e-21  Score=148.18  Aligned_cols=190  Identities=13%  Similarity=0.094  Sum_probs=123.5  Template_Neff=6.716
+
+Q ss_pred             CeEEEEcCCcEEeCCCCEEEEEEEEccCCCCC--CcEEEEEECCEEEE---------------------EE--ec--cCC
+Q 5GNIA_5GNIB       6 SVDMKSLPDWTVQNGKQLTLQCFADVSTTSKP--QHQMLFYKDDVLFY---------------------QI--SS--MKS   58 (394)
+Q Consensus         6 ~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~--~~~~~w~k~~~~~~---------------------~~--~~--~~~   58 (394)
+                      .+.|.-..+..|..|+.++|.|...+.    +  ...+.||||+.-..                     ..  ..  ..+
+T Consensus         1 ~~~~~~~~~~~v~~G~~v~l~C~vsGt----p~~~~~V~W~kd~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   76 (223)
+T 1A7RH_1A7RL       1 QVQLQESGPGLVAPSQSLSITCTVSGF----SLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDNSKS   76 (223)
+Confidence            133444556789999999999999864    5  68999999987200                     00  00  235
+
+
+Q ss_pred             eEEEEECCCcCccCEEEEEEEEECCCcee-cceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCCCCeEEEEEECC
+Q 5GNIA_5GNIB      59 TESYFIPEVRIYDSGTYKCTVIVNNKEKT-TAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKLE  137 (394)
+Q Consensus        59 ~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~-s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~~  137 (394)
+                      ...|.|..+..+|+|.|.|.+.|..+... +....+++...-..+-.+....+.+|+.++|.|.+.+. +...+.|++++
+T Consensus        77 ~~~L~I~~~~~~D~G~YtC~a~N~~g~~~~~~~~~~~~~~~~~~~~~p~~~~v~~G~~~~l~C~vsg~-~~~~v~W~k~~  155 (223)
+T 1A7RH_1A7RL      77 QVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTLTVSSDIVLTQSPASLSASVGETVTITCRASGN-IHNYLAWYQQK  155 (223)
+Confidence            78999999999999999999999875422 12222322222222334455678999999999999874 45689999998
+
+
+Q ss_pred             EEcccCCchhccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEEEcCCC
+Q 5GNIA_5GNIB     138 LNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWTVQNGK  217 (394)
+Q Consensus       138 ~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~v~~G~  217 (394)
+                      ..+...                                                                          
+T Consensus       156 ~~~~~~--------------------------------------------------------------------------  161 (223)
+T 1A7RH_1A7RL     156 QGKSPQ--------------------------------------------------------------------------  161 (223)
+Confidence            764210                                                                          
+
+
+Q ss_pred             CEEEEEEEeCCcCCCccceEEEEEECCeEEE-----EEEcCCCcEEEEECCccChhCEEEEEEEEECCCcEEeeEEEEEE
+Q 5GNIA_5GNIB     218 QLTLQCFADVSTTSVKPQHQMLFYKDDVLFY-----QISSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLV  292 (394)
+Q Consensus       218 ~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~-----~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v  292 (394)
+                                         .+.|++++....     ..........|.|..+...|.|.|+|.+.+......+....|.|
+T Consensus       162 -------------------~~~~~~~~~~~~~~~r~~~~~~~~~~~L~I~~~~~~D~G~Y~C~a~n~~~~~~~~~~~~~~  222 (223)
+T 1A7RH_1A7RL     162 -------------------LLVYYTTTLADGVPSRFSGSGSGTQYSLKINSLQPDDFGSYYCQHFWSTPRTFGGGTKLEI  222 (223)
+Confidence                               001111110000     00111235789999999999999999999887554444444433
+
+
+Q ss_pred             e
+Q 5GNIA_5GNIB     293 E  293 (394)
+Q Consensus       293 ~  293 (394)
+                      .
+T Consensus       223 ~  223 (223)
+T 1A7RH_1A7RL     223 K  223 (223)
+Confidence            1
+
+
+No 2
+>1A7OH_1A7OL
+Probab=99.49  E-value=7.7e-21  Score=147.82  Aligned_cols=189  Identities=13%  Similarity=0.090  Sum_probs=124.2  Template_Neff=6.836
+
+Q ss_pred             CeEEEEcCCcEEeCCCCEEEEEEEEccCCCCC--CcEEEEEECCEEEE----------------E-------Eec--cCC
+Q 5GNIA_5GNIB       6 SVDMKSLPDWTVQNGKQLTLQCFADVSTTSKP--QHQMLFYKDDVLFY----------------Q-------ISS--MKS   58 (394)
+Q Consensus         6 ~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~--~~~~~w~k~~~~~~----------------~-------~~~--~~~   58 (394)
+                      .+.|.=..+..|.+|+.++|.|...+.    +  ...+.||||+....                .       ...  ...
+T Consensus         1 ~~~~~~~~~~~V~~G~~~~leC~vsG~----~~~~~~V~Wfk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~is~~~~~~   76 (222)
+T 1A7OH_1A7OL       1 QVQLQESGPGLVAPSQSLSITCTVSGF----SLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDNSKS   76 (222)
+Confidence            123344456789999999999999864    4  68999999998410                0       000  235
+
+
+Q ss_pred             eEEEEECCCcCccCEEEEEEEEECCCce-ecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCCCCeEEEEEECC
+Q 5GNIA_5GNIB      59 TESYFIPEVRIYDSGTYKCTVIVNNKEK-TTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKLE  137 (394)
+Q Consensus        59 ~~~l~i~~~~~~d~G~Y~C~~~~~~~~~-~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~~  137 (394)
+                      ...|.|..+..+|+|+|.|.+.|..+.. -+....++|...-..+-.+....+.+|+.++|.|.+.+. +...+.|++++
+T Consensus        77 ~~~L~I~~~~~~D~G~YtC~a~N~~g~~~~~~~~~~~~~~~~~~~~~p~~~~v~~G~~~~~~C~vsg~-p~~~v~W~k~~  155 (222)
+T 1A7OH_1A7OL      77 QVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTVTVSSDIVLTQSPASLSASVGETVTITCRASGN-IHNYLAWYQQK  155 (222)
+Confidence            7899999999999999999999986532 123333333333333344566778999999999999874 45689999998
+
+
+Q ss_pred             EEcccCCchhccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEEEcCCC
+Q 5GNIA_5GNIB     138 LNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWTVQNGK  217 (394)
+Q Consensus       138 ~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~v~~G~  217 (394)
+                      ..+..                                                                           
+T Consensus       156 ~~~~~---------------------------------------------------------------------------  160 (222)
+T 1A7OH_1A7OL     156 QGKSP---------------------------------------------------------------------------  160 (222)
+Confidence            76421                                                                           
+
+
+Q ss_pred             CEEEEEEEeCCcCCCccceEEEEEECCeEEEEE-----EcCCCcEEEEECCccChhCEEEEEEEEECCCcEEeeEEEEEE
+Q 5GNIA_5GNIB     218 QLTLQCFADVSTTSVKPQHQMLFYKDDVLFYQI-----SSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLV  292 (394)
+Q Consensus       218 ~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~-----~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v  292 (394)
+                                        ..+.|++++..+...     ........|.|..+...|.|.|+|.+.+..+... ....|.+
+T Consensus       161 ------------------~~~~~~~~~~~~~~~~r~~~~~~~~~~~L~I~~~~~~D~G~Y~c~a~n~~~~~~-~~~~~~~  221 (222)
+T 1A7OH_1A7OL     161 ------------------QLLVYYTTTLADGVPSRFSGSGSGTQYSLKINSLQPDDFGSYYCQHFWSTPTFG-GGTKLEI  221 (222)
+Confidence                              111222222211111     1123467899999999999999999998876533 2222221
+
+
+Q ss_pred             e
+Q 5GNIA_5GNIB     293 E  293 (394)
+Q Consensus       293 ~  293 (394)
+                      .
+T Consensus       222 ~  222 (222)
+T 1A7OH_1A7OL     222 K  222 (222)
+Confidence            0
+
+
+No 3
+>1A7NH_1A7NL
+Probab=99.48  E-value=9.6e-21  Score=147.27  Aligned_cols=190  Identities=13%  Similarity=0.087  Sum_probs=121.9  Template_Neff=6.810
+
+Q ss_pred             CeEEEEcCCcEEeCCCCEEEEEEEEccCCCCC--CcEEEEEECCEEEE-----------------------EEec--cCC
+Q 5GNIA_5GNIB       6 SVDMKSLPDWTVQNGKQLTLQCFADVSTTSKP--QHQMLFYKDDVLFY-----------------------QISS--MKS   58 (394)
+Q Consensus         6 ~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~--~~~~~w~k~~~~~~-----------------------~~~~--~~~   58 (394)
+                      .+.|.-..+..|.+|+.++|.|...+.    +  ...+.||||+....                       ....  ...
+T Consensus         1 ~~~~~~~~~~~V~~G~~~~leC~vsG~----p~~~~~V~W~k~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~is~~~~~~   76 (223)
+T 1A7NH_1A7NL       1 QVQLQESGPGLVAPSQSLSITCTVSGF----SLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDNSKS   76 (223)
+Confidence            123444456789999999999999864    4  68999999998310                       0000  246
+
+
+Q ss_pred             eEEEEECCCcCccCEEEEEEEEECCCce-ecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCCCCeEEEEEECC
+Q 5GNIA_5GNIB      59 TESYFIPEVRIYDSGTYKCTVIVNNKEK-TTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKLE  137 (394)
+Q Consensus        59 ~~~l~i~~~~~~d~G~Y~C~~~~~~~~~-~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~~  137 (394)
+                      ...|.|..+..+|+|+|.|.+.|..+.. -+....++|...-..+-.+....+.+|+.++|.|.+.+. +...+.|++++
+T Consensus        77 ~~~L~I~~~~~~D~G~YtC~a~N~~g~~~~~~~~~~~~~~~~~~~~~p~~~~v~~G~~~~l~C~vsg~-p~~~v~W~k~~  155 (223)
+T 1A7NH_1A7NL      77 QVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTVTVSSDIVLTQSPASLSASVGETVTITCRASGN-IHNYLAWYQQK  155 (223)
+Confidence            7899999999999999999999986532 122233333222222334456678999999999999874 45689999998
+
+
+Q ss_pred             EEcccCCchhccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEEEcCCC
+Q 5GNIA_5GNIB     138 LNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWTVQNGK  217 (394)
+Q Consensus       138 ~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~v~~G~  217 (394)
+                      ..+...                                                                          
+T Consensus       156 ~~~~~~--------------------------------------------------------------------------  161 (223)
+T 1A7NH_1A7NL     156 QGKSPQ--------------------------------------------------------------------------  161 (223)
+Confidence            764210                                                                          
+
+
+Q ss_pred             CEEEEEEEeCCcCCCccceEEEEEECCeEEE-----EEEcCCCcEEEEECCccChhCEEEEEEEEECCCcEEeeEEEEEE
+Q 5GNIA_5GNIB     218 QLTLQCFADVSTTSVKPQHQMLFYKDDVLFY-----QISSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLV  292 (394)
+Q Consensus       218 ~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~-----~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v  292 (394)
+                                         .+.|++++....     ..........|.|..+...|.|.|+|.+.+...........|.|
+T Consensus       162 -------------------~~~~~~~~~~~~~~~r~~~~~~~~~~~L~I~~~~~~D~G~Y~C~a~n~~~~~~~~~~~~~~  222 (223)
+T 1A7NH_1A7NL     162 -------------------LLVYYTTTLADGVPSRFSGSGSGTQYSLKINSLQPDDFGSYYCQHFWSTPRTFGGGTKLEI  222 (223)
+Confidence                               011111110000     00112246789999999999999999999876333333333322
+
+
+Q ss_pred             e
+Q 5GNIA_5GNIB     293 E  293 (394)
+Q Consensus       293 ~  293 (394)
+                      .
+T Consensus       223 ~  223 (223)
+T 1A7NH_1A7NL     223 K  223 (223)
+Confidence            0
+
+
+No 4
+>1A7OH_1A7OL
+Probab=99.43  E-value=3.9e-20  Score=143.39  Aligned_cols=182  Identities=13%  Similarity=0.045  Sum_probs=126.7  Template_Neff=6.836
+
+Q ss_pred             EEEEEECCCEEEcCCCCEEEEEEEeCCcCCCcc--ceEEEEEECCeEEE----------------E-------EEc--CC
+Q 5GNIA_5GNIB     202 SVDMKSLPDWTVQNGKQLTLQCFADVSTTSVKP--QHQMLFYKDDVLFY----------------Q-------ISS--MK  254 (394)
+Q Consensus       202 ~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~--~~~~~w~k~~~~~~----------------~-------~~~--~~  254 (394)
+                      .+.|.=..+..|.+|+.++|.|...+     .+  +..+.||||+....                .       ...  ..
+T Consensus         1 ~~~~~~~~~~~V~~G~~~~leC~vsG-----~~~~~~~V~Wfk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~is~~~~~   75 (222)
+T 1A7OH_1A7OL       1 QVQLQESGPGLVAPSQSLSITCTVSG-----FSLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDNSK   75 (222)
+Confidence            02233345678999999999999985     35  79999999999410                0       011  24
+
+
+Q ss_pred             CcEEEEECCccChhCEEEEEEEEECCCcE-EeeEEEEEEecCCCCeEEcCCccccCCCEEEEEEEeCCCCCCeEEEEEEC
+Q 5GNIA_5GNIB     255 STESYFIPEVRIYDSGTYKCTVIVNNKEK-TTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKL  333 (394)
+Q Consensus       255 ~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~-~s~~~~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~  333 (394)
+                      ....|.|..+..+|+|+|+|.+.|..+.. -+....++|...-..+-.+....|.+|+.++|.|.+.+. +...+.|+++
+T Consensus        76 ~~~~L~I~~~~~~D~G~YtC~a~N~~g~~~~~~~~~~~~~~~~~~~~~p~~~~v~~G~~~~~~C~vsg~-p~~~v~W~k~  154 (222)
+T 1A7OH_1A7OL      76 SQVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTVTVSSDIVLTQSPASLSASVGETVTITCRASGN-IHNYLAWYQQ  154 (222)
+Confidence            67899999999999999999999986431 122333333222233334566788999999999999974 4568999999
+
+
+Q ss_pred             CEEcc------------cccceEEcCCCCCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccccCCe
+Q 5GNIA_5GNIB     334 ELNEK------------MVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSE  390 (394)
+Q Consensus       334 ~~~~~------------~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~  390 (394)
+                      +..+.            ..+..+...........|.|......|.|.|+|.+.|..|. .+.+...+..
+T Consensus       155 ~~~~~~~~~~~~~~~~~~~~~~r~~~~~~~~~~~L~I~~~~~~D~G~Y~c~a~n~~~~-~~~~~~~~~~  222 (222)
+T 1A7OH_1A7OL     155 KQGKSPQLLVYYTTTLADGVPSRFSGSGSGTQYSLKINSLQPDDFGSYYCQHFWSTPT-FGGGTKLEIK  222 (222)
+Confidence            97532            12334555566677889999999999999999999999986 2222111000
+
+
+No 5
+>1A7RH_1A7RL
+Probab=99.41  E-value=7.4e-20  Score=141.57  Aligned_cols=182  Identities=13%  Similarity=0.054  Sum_probs=124.1  Template_Neff=6.716
+
+Q ss_pred             EEEEEECCCEEEcCCCCEEEEEEEeCCcCCCcc--ceEEEEEECCeEEE---------------------EE--Ec--CC
+Q 5GNIA_5GNIB     202 SVDMKSLPDWTVQNGKQLTLQCFADVSTTSVKP--QHQMLFYKDDVLFY---------------------QI--SS--MK  254 (394)
+Q Consensus       202 ~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~--~~~~~w~k~~~~~~---------------------~~--~~--~~  254 (394)
+                      .+.|.-..+..|.+|+.++|.|...+     .+  +..+.||||+.-..                     ..  ..  ..
+T Consensus         1 ~~~~~~~~~~~v~~G~~v~l~C~vsG-----tp~~~~~V~W~kd~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   75 (223)
+T 1A7RH_1A7RL       1 QVQLQESGPGLVAPSQSLSITCTVSG-----FSLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDNSK   75 (223)
+Confidence            02344445678999999999999984     36  79999999987300                     00  00  23
+
+
+Q ss_pred             CcEEEEECCccChhCEEEEEEEEECCCcEE-eeEEEEEEecCCCCeEEcCCccccCCCEEEEEEEeCCCCCCeEEEEEEC
+Q 5GNIA_5GNIB     255 STESYFIPEVRIYDSGTYKCTVIVNNKEKT-TAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKL  333 (394)
+Q Consensus       255 ~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~-s~~~~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~  333 (394)
+                      +...|.|..+...|+|.|.|.+.|..+... +....+++...-...-.+....|.+|+.++|.|.+.+. +...+.|+++
+T Consensus        76 ~~~~L~I~~~~~~D~G~YtC~a~N~~g~~~~~~~~~~~~~~~~~~~~~p~~~~v~~G~~~~l~C~vsg~-~~~~v~W~k~  154 (223)
+T 1A7RH_1A7RL      76 SQVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTLTVSSDIVLTQSPASLSASVGETVTITCRASGN-IHNYLAWYQQ  154 (223)
+Confidence            678999999999999999999999865322 12222222222222234455678999999999999874 4468999999
+
+
+Q ss_pred             CEEcc------------cccceEEcCCCCCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccccCCeEEeC
+Q 5GNIA_5GNIB     334 ELNEK------------MVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTV  394 (394)
+Q Consensus       334 ~~~~~------------~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~  394 (394)
+                      +..+.            .....+...........|.|......|.|.|+|.+.|..+.....+     ..|.|
+T Consensus       155 ~~~~~~~~~~~~~~~~~~~~~~r~~~~~~~~~~~L~I~~~~~~D~G~Y~C~a~n~~~~~~~~~-----~~~~~  222 (223)
+T 1A7RH_1A7RL     155 KQGKSPQLLVYYTTTLADGVPSRFSGSGSGTQYSLKINSLQPDDFGSYYCQHFWSTPRTFGGG-----TKLEI  222 (223)
+Confidence            98642            1234455555566778899999999999999999999874311111     11110
+
+
+No 6
+>1A7NH_1A7NL
+Probab=99.38  E-value=1.4e-19  Score=140.02  Aligned_cols=182  Identities=13%  Similarity=0.050  Sum_probs=123.4  Template_Neff=6.810
+
+Q ss_pred             EEEEEECCCEEEcCCCCEEEEEEEeCCcCCCcc--ceEEEEEECCeEEE-----------------------EEEc--CC
+Q 5GNIA_5GNIB     202 SVDMKSLPDWTVQNGKQLTLQCFADVSTTSVKP--QHQMLFYKDDVLFY-----------------------QISS--MK  254 (394)
+Q Consensus       202 ~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~--~~~~~w~k~~~~~~-----------------------~~~~--~~  254 (394)
+                      .+.|.=..+..|.+|+.++|.|...+     .+  +..+.||||+....                       ....  ..
+T Consensus         1 ~~~~~~~~~~~V~~G~~~~leC~vsG-----~p~~~~~V~W~k~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~is~~~~~   75 (223)
+T 1A7NH_1A7NL       1 QVQLQESGPGLVAPSQSLSITCTVSG-----FSLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDNSK   75 (223)
+Confidence            02233445678999999999999985     35  79999999998410                       0011  24
+
+
+Q ss_pred             CcEEEEECCccChhCEEEEEEEEECCCcE-EeeEEEEEEecCCCCeEEcCCccccCCCEEEEEEEeCCCCCCeEEEEEEC
+Q 5GNIA_5GNIB     255 STESYFIPEVRIYDSGTYKCTVIVNNKEK-TTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKL  333 (394)
+Q Consensus       255 ~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~-~s~~~~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~  333 (394)
+                      ....|.|..+..+|+|+|.|.+.|..+.. -+....++|...-..+-.+....|.+|+.++|.|.+.+. +...+.|+++
+T Consensus        76 ~~~~L~I~~~~~~D~G~YtC~a~N~~g~~~~~~~~~~~~~~~~~~~~~p~~~~v~~G~~~~l~C~vsg~-p~~~v~W~k~  154 (223)
+T 1A7NH_1A7NL      76 SQVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTVTVSSDIVLTQSPASLSASVGETVTITCRASGN-IHNYLAWYQQ  154 (223)
+Confidence            67899999999999999999999986431 122223322222222223455678999999999999874 4468999999
+
+
+Q ss_pred             CEEcc------------cccceEEcCCCCCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccccCCeEEeC
+Q 5GNIA_5GNIB     334 ELNEK------------MVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTV  394 (394)
+Q Consensus       334 ~~~~~------------~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~  394 (394)
+                      +..+.            ..+..+...........|.|......|.|.|+|.+.|....... +    ...|++
+T Consensus       155 ~~~~~~~~~~~~~~~~~~~~~~r~~~~~~~~~~~L~I~~~~~~D~G~Y~C~a~n~~~~~~~-~----~~~~~~  222 (223)
+T 1A7NH_1A7NL     155 KQGKSPQLLVYYTTTLADGVPSRFSGSGSGTQYSLKINSLQPDDFGSYYCQHFWSTPRTFG-G----GTKLEI  222 (223)
+Confidence            98531            12344555666677889999999999999999999998632111 1    111110
+
+
+No 7
+>1A6UL_1A6UH
+Probab=99.38  E-value=1.5e-19  Score=141.32  Aligned_cols=187  Identities=12%  Similarity=0.114  Sum_probs=124.2  Template_Neff=7.694
+
+Q ss_pred             EEEEECCCEEEcCCCCEEEEEEEeCCcCCCccceEEEEEECCeEE-------------------EEEEcCCCcEEEEECC
+Q 5GNIA_5GNIB     203 VDMKSLPDWTVQNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVLF-------------------YQISSMKSTESYFIPE  263 (394)
+Q Consensus       203 ~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~-------------------~~~~~~~~~~~l~i~~  263 (394)
+                      ..|+-..+..|.+|+.++|.|......  +.+...+.||||+...                   ...........|.|..
+T Consensus         1 ~~~~~~~~~~v~eG~~a~f~C~vs~~~--~~p~~~v~W~k~g~~~~~~~~~~~~~~~~~~~s~k~~~~~~g~~~~L~I~~   78 (228)
+T 1A6UL_1A6UH       1 AVVTQESALTTSPGETVTLTCRSSTGA--VTTSNYANWVQEKPDHLFTGLIGGTNNRAPGVPARFSGSLIGNKAALTITG   78 (228)
+Confidence            012334456789999999999998431  1267899999999886                   1222345678999999
+
+
+Q ss_pred             ccChhCEEEEEEEEECCCcEEeeEEEEEEecCCCCeEEcCCccccCCCEEEEEEEeCCC-CCCeEEEEEECCEEcccc--
+Q 5GNIA_5GNIB     264 VRIYDSGTYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFTIEKLELNEKMV--  340 (394)
+Q Consensus       264 ~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~--  340 (394)
+                      +...|+|.|+|.+.+...........|.|  +..-.-.+.+..|.+|+.|+|.|.+.+. .++..+.|+|++......  
+T Consensus        79 ~~~eD~G~YtC~a~n~~~~~~~~~~~~~~--~~~~~~~~~~~~v~~G~~v~l~C~~sg~~~~~~~v~W~k~~~~~~~~~~  156 (228)
+T 1A6UL_1A6UH      79 AQTEDEAIYFCALWYSNHWVFGGGTKLTV--LQVQLQQPGAELVKPGASVKLSCKASGYTFTSYWMHWVKQRPGRGLEWI  156 (228)
+Confidence            99999999999999863221122223322  1222233456678999999999999985 466899999996531100  
+
+
+Q ss_pred             ---------------cceEEcCCC--CCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccccCCeEEeC
+Q 5GNIA_5GNIB     341 ---------------KLKREKNSR--DQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTV  394 (394)
+Q Consensus       341 ---------------~~~~~~~~~--~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~  394 (394)
+                                     ...+.....  ..+...|.|......|.|.|+|.+.|..|... ...++..-+|||
+T Consensus       157 ~~~~~~~~~~~~~~~~~~r~~~~~~~~~~~~~L~i~~~~~~DsG~Y~C~a~n~~G~~~-~~~~~~~~~~~~  226 (228)
+T 1A6UL_1A6UH     157 GRIDPNSGGTKYNEKFKSKATLTVDKPSSTAYMQLSSLTSEDSAVYYCARYDYYGSSY-FDYWGQGTTVTV  226 (228)
+Confidence                           011222222  45677899999999999999999999998611 122233333333
+
+
+No 8
+>1A7QL_1A7QH
+Probab=99.38  E-value=1.5e-19  Score=140.10  Aligned_cols=192  Identities=15%  Similarity=0.152  Sum_probs=126.9  Template_Neff=7.309
+
+Q ss_pred             EEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCCCCeEEEEEECCEEcccCCchhccCCcCCceEEEEEEEcCCCCeEE
+Q 5GNIA_5GNIB      92 QLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLS  171 (394)
+Q Consensus        92 ~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~  171 (394)
+                      .|.+      +-.+....+.+|+.++|.|.+.+. +...+.|+++...                                
+T Consensus         1 ~~~~------~~~~~~~~v~~g~~~~~~c~vs~~-~~~~v~w~~~~~~--------------------------------   41 (221)
+T 1A7QL_1A7QH       1 DIVL------TQSPASLSASVGETVTITCRAGGN-THNYLAWYQQKQG--------------------------------   41 (221)
+Confidence            0011      123445678899999999999863 4557788776543                                
+
+
+Q ss_pred             EEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEEEcCCCCEEEEEEEeCCcCCCccceEEEEEECCeEEEEEE
+Q 5GNIA_5GNIB     172 FRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVLFYQIS  251 (394)
+Q Consensus       172 y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~~  251 (394)
+                                                                                   .+...+.|||++..+....
+T Consensus        42 -------------------------------------------------------------~~~~~~~w~k~~~~i~~~~   60 (221)
+T 1A7QL_1A7QH      42 -------------------------------------------------------------KSPQLLVYYTTTLAAGVPS   60 (221)
+Confidence                                                                         1446778888777665332
+
+
+Q ss_pred             -----cCCCcEEEEECCccChhCEEEEEEEEECC----CcEEeeEEEEEEecCCCCeEEcCCccccCCCEEEEEEEeCCC
+Q 5GNIA_5GNIB     252 -----SMKSTESYFIPEVRIYDSGTYKCTVIVNN----KEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE  322 (394)
+Q Consensus       252 -----~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~----~~~~s~~~~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~  322 (394)
+                           .......|.|..+..+|.|.|+|.+.+..    +....-.+.+.+.       .+.+..|.+|+.|+|.|.+.+.
+T Consensus        61 k~~i~~~~~~~~L~I~~~~~~D~G~Ytc~a~n~~~~~~~~~~~~~~~~~~~-------~~~~~~v~~g~~~~l~C~vsg~  133 (221)
+T 1A7QL_1A7QH      61 RFSGSGSGTQYSLKINSLQPDDFGSYYCQHFWSTPRSFGGGTKLEIQVQLQ-------ESGPGLVAPSQSLSITCTVSGF  133 (221)
+Confidence                 23467899999999999999999999862    1111222333222       2445678999999999999987
+
+
+Q ss_pred             C-CCeEEEEEECCEEccc----------------ccceEEcCCC--CCcEEEEEEEEEcCCCcEEEEEEEEecccCCccc
+Q 5GNIA_5GNIB     323 K-APIHFTIEKLELNEKM----------------VKLKREKNSR--DQNFVILEFPVEEQDRVLSFRCQARIISGIHMQT  383 (394)
+Q Consensus       323 ~-~~~~~~w~~~~~~~~~----------------~~~~~~~~~~--~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~  383 (394)
+                      + ++..+.|+|++.....                ....+.....  ..+...|.|......|.|.|+|.+.|..|... +
+T Consensus       134 ~~~~~~v~W~k~~~~~~~~~~~~~~~~~~~~~~~~~~~r~~~~~~~~~~~~~L~I~~~~~~DsG~Y~C~a~n~~~~~~-~  212 (221)
+T 1A7QL_1A7QH     134 SLTGYGVNWVRQLPGKGLEWLGMIWGDGNTAYNSALKSRLSISKDNSKSQVFLEMDSLHTDDTARYYCARERDYRLDY-W  212 (221)
+Confidence            5 4689999999875110                0111222222  45677899999999999999999999988622 2
+
+
+Q ss_pred             ccccCCeEEeC
+Q 5GNIA_5GNIB     384 SESTKSELVTV  394 (394)
+Q Consensus       384 s~~s~~~~~~~  394 (394)
+                      .   ...+|||
+T Consensus       213 ~---~~~~~~~  220 (221)
+T 1A7QL_1A7QH     213 G---QGTTVTV  220 (221)
+Confidence            2   1222222
+
+
+No 9
+>1A6UL_1A6UH
+Probab=99.35  E-value=3.2e-19  Score=139.16  Aligned_cols=204  Identities=12%  Similarity=0.090  Sum_probs=121.9  Template_Neff=7.694
+
+Q ss_pred             eEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEE-------------------EEEeccCCeEEEEECCC
+Q 5GNIA_5GNIB       7 VDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLF-------------------YQISSMKSTESYFIPEV   67 (394)
+Q Consensus         7 ~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~-------------------~~~~~~~~~~~l~i~~~   67 (394)
+                      ..|+-..+..|.+|+.++|.|...+. +..+...+.||||+...                   ...........|.|..+
+T Consensus         1 ~~~~~~~~~~v~eG~~a~f~C~vs~~-~~~p~~~v~W~k~g~~~~~~~~~~~~~~~~~~~s~k~~~~~~g~~~~L~I~~~   79 (228)
+T 1A6UL_1A6UH       1 AVVTQESALTTSPGETVTLTCRSSTG-AVTTSNYANWVQEKPDHLFTGLIGGTNNRAPGVPARFSGSLIGNKAALTITGA   79 (228)
+Confidence            02334456778999999999999853 11257899999999885                   11222456788999999
+
+
+Q ss_pred             cCccCEEEEEEEEECCCceecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCC-CCCeEEEEEECCEEcccCCch
+Q 5GNIA_5GNIB      68 RIYDSGTYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFTIEKLELNEKMVKLK  146 (394)
+Q Consensus        68 ~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~~~  146 (394)
+                      ..+|+|.|+|.+.+...........|.|.  ......+.+..|.+|+.|+|.|.+.+. .++..+.|+|++.....    
+T Consensus        80 ~~eD~G~YtC~a~n~~~~~~~~~~~~~~~--~~~~~~~~~~~v~~G~~v~l~C~~sg~~~~~~~v~W~k~~~~~~~----  153 (228)
+T 1A6UL_1A6UH      80 QTEDEAIYFCALWYSNHWVFGGGTKLTVL--QVQLQQPGAELVKPGASVKLSCKASGYTFTSYWMHWVKQRPGRGL----  153 (228)
+Confidence            99999999999998632211222223221  111223455678999999999999985 46789999998654200    
+
+
+Q ss_pred             hccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEEEcCCCCEEEEEEEe
+Q 5GNIA_5GNIB     147 REKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWTVQNGKQLTLQCFAD  226 (394)
+Q Consensus       147 ~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~v~~G~~v~l~C~~~  226 (394)
+                                              .+.+.                                               +...
+T Consensus       154 ------------------------~~~~~-----------------------------------------------~~~~  162 (228)
+T 1A6UL_1A6UH     154 ------------------------EWIGR-----------------------------------------------IDPN  162 (228)
+Confidence                                    01100                                               0000
+
+
+Q ss_pred             CCcCCCccceEEEEEECCeEEEEEEcCCCcEEEEECCccChhCEEEEEEEEECCCcEEe----eEEEEEEec
+Q 5GNIA_5GNIB     227 VSTTSVKPQHQMLFYKDDVLFYQISSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTT----AEYQLLVEG  294 (394)
+Q Consensus       227 ~~~~~~~~~~~~~w~k~~~~~~~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s----~~~~l~v~~  294 (394)
+                      .     .....-..++....+.. ........|.|..+...|+|.|.|.+.+..++...    ....+.|..
+T Consensus       163 ~-----~~~~~~~~~~~r~~~~~-~~~~~~~~L~i~~~~~~DsG~Y~C~a~n~~G~~~~~~~~~~~~~~~~~  228 (228)
+T 1A6UL_1A6UH     163 S-----GGTKYNEKFKSKATLTV-DKPSSTAYMQLSSLTSEDSAVYYCARYDYYGSSYFDYWGQGTTVTVSS  228 (228)
+Confidence            0     00000011111111111 01234678999999999999999999988765211    111111100
+
+
+No 10
+>1A1MA_1A1MB
+Probab=99.34  E-value=3.7e-19  Score=143.84  Aligned_cols=280  Identities=12%  Similarity=0.070  Sum_probs=169.3  Template_Neff=4.727
+
+Q ss_pred             Ccc-CC---CeEEEEcCCcEEeCCCC--------EEEEEEEEccCCCC-CC----------cEEEEEECCEEEEEEecc-
+Q 5GNIA_5GNIB       1 SFT-IN---SVDMKSLPDWTVQNGKQ--------LTLQCFADVSTTSK-PQ----------HQMLFYKDDVLFYQISSM-   56 (394)
+Q Consensus         1 ~~~-~~---~~~l~~~p~~~v~~G~~--------v~l~C~~~~~~~~~-~~----------~~~~w~k~~~~~~~~~~~-   56 (394)
+                      .++ +|   .+.++-.-+..+.-...        ..+.|.+....  . ..          .-..|-+++..+...... 
+T Consensus        63 ~~~~~~~~~~~~~~~l~~~~~~~n~~~~~~~~~~~~~~c~v~~~~--~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~  140 (377)
+T 1A1MA_1A1MB      63 NTQIFKTNTQTYRENLRIALRYYNQSEAGSHIIQRMYGCDLGPDG--RLLRGHDQSAYDGKDYIALNEDLSSWTAADTAA  140 (377)
+Confidence            000 00   00000000111222233        67889887532  1 00          112234444333321110 
+
+
+Q ss_pred             ----CCeEEEEECCCcCccCEEEEEEEEECCCceecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCC-CCCeEE
+Q 5GNIA_5GNIB      57 ----KSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHF  131 (394)
+Q Consensus        57 ----~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~  131 (394)
+                          .....+.+ .....|.|.|.|.+.+..++ .+....+.|..+|.+.....+   ..|+.++|.|.+.+. .+++.+
+T Consensus       141 ~~~~~~~~~~~~-~~~~~~~~e~~c~~~~~~~~-~~~~~~l~~~~pp~~~~~~~p---~sg~~a~l~C~~~G~~~p~i~V  215 (377)
+T 1A1MA_1A1MB     141 QITQRKWEAARV-AEQLRAYLEGLCVEWLRRYL-ENGKETLQRADPPKTHVTHHP---VSDHEATLRCWALGFYPAEITL  215 (377)
+Confidence                11223333 35678999999999998866 466777888877776544433   469999999999985 477899
+
+
+Q ss_pred             EEEECCEEcccCCchhccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCE
+Q 5GNIA_5GNIB     132 TIEKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDW  211 (394)
+Q Consensus       132 ~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~  211 (394)
+                      .|+|++..+...               ........++.|.|.|.+.|                                 
+T Consensus       216 tW~kdg~~i~~~---------------~~~~~t~~~~~gt~~~~a~~---------------------------------  247 (377)
+T 1A1MA_1A1MB     216 TWQRDGEDQTQD---------------TELVETRPAGDRTFQKWAAV---------------------------------  247 (377)
+Confidence            999999987321               12223333445566665554                                 
+
+
+Q ss_pred             EEcCCCCEEEEEEEeCCcCCCccceEEEEEECCeEEEEEEcCCCcEEEEECCccChhCEEEEEEEEECCCcEEeeEEEE-
+Q 5GNIA_5GNIB     212 TVQNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVLFYQISSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQL-  290 (394)
+Q Consensus       212 ~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l-  290 (394)
+                                                                         .+...|+|.|+|.+.+..+.   .++.+ 
+T Consensus       248 ---------------------------------------------------~v~~~d~~~ytc~v~~~~~~---~~~~~~  273 (377)
+T 1A1MA_1A1MB     248 ---------------------------------------------------VVPSGEEQRYTCHVQHEGLP---KPLTLR  273 (377)
+Confidence                                                               24457999999999987643   22222 
+
+
+Q ss_pred             ----EEecCCCCeEEcCCccccCCCEEEEEEEeCCC-CCCeEEEEEECCEEcccccceEEcCCCCCcEEEEEEEEEcCCC
+Q 5GNIA_5GNIB     291 ----LVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDR  365 (394)
+Q Consensus       291 ----~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~  365 (394)
+                          .+.. |+......+..|.+|+.++|.|.+.+. ++...+.|+|++..+......+...........|.|......+
+T Consensus       274 ~~~~~~~~-~p~i~~~~~~~v~~g~~~~l~c~v~g~~~~~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d  352 (377)
+T 1A1MA_1A1MB     274 WEPHHIQR-TPKIQVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTE  352 (377)
+Confidence                1122 344456777889999999999999985 3568999999999995432233333444556788999999999
+
+
+Q ss_pred             cEEEEEEEEecccCCcccccccCCeEE
+Q 5GNIA_5GNIB     366 VLSFRCQARIISGIHMQTSESTKSELV  392 (394)
+Q Consensus       366 ~g~y~C~~~~~~~~~~~~s~~s~~~~~  392 (394)
+                      .|.|+|.+.|..|.... ...-+-. .
+T Consensus       353 ~g~Ytc~v~n~~g~~~~-~~~~~~~-~  377 (377)
+T 1A1MA_1A1MB     353 KDEYACRVNHVTLSQPK-IVKWDRD-M  377 (377)
+Confidence            99999999999886211 1100000 0
+
+
+No 11
+>1A6WH_1A6WL
+Probab=99.25  E-value=2.7e-18  Score=134.00  Aligned_cols=197  Identities=13%  Similarity=0.045  Sum_probs=125.9  Template_Neff=8.865
+
+Q ss_pred             CeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEE-----E--------------------EEEe-ccCCe
+Q 5GNIA_5GNIB       6 SVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVL-----F--------------------YQIS-SMKST   59 (394)
+Q Consensus         6 ~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~-----~--------------------~~~~-~~~~~   59 (394)
+                      .|.|+..+...|.+|+.++|.|.+.+..  .+...+.|+|++..     +                    .... .....
+T Consensus         1 ~~~~~~~~~~~v~~G~~~~L~C~vsg~~--~~~~~V~W~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   78 (229)
+T 1A6WH_1A6WL       1 QVQLQQPGAELVKPGASVKLSCKASGYT--FTSYWMHWVKQRPGRGLEWIGRIDPNSGGTKYNEKFKSKATLTVDKPSST   78 (229)
+Confidence            2567778889999999999999998642  36789999999532     1                    0001 13456
+
+
+Q ss_pred             EEEEECCCcCccCEEEEEEEEECCCce----ecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCC--CCCeEEEE
+Q 5GNIA_5GNIB      60 ESYFIPEVRIYDSGTYKCTVIVNNKEK----TTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE--KAPIHFTI  133 (394)
+Q Consensus        60 ~~l~i~~~~~~d~G~Y~C~~~~~~~~~----~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~--~~~~~~~w  133 (394)
+                      ..|.|..+...|+|.|.|.+.+..+..    ..+...++|  .....-......+.+|+.++|.|.+.+.  .++..+.|
+T Consensus        79 ~~L~I~~~~~~DsG~Y~C~a~n~~g~~~~~~~~~~~~~~~--~~~~~~~~~~~~v~~G~~v~l~C~v~~~~~~~~~~v~W  156 (229)
+T 1A6WH_1A6WL      79 AYMQLSSLTSEDSAVYYCARYDYYGSSYFDYWGQGTTVTV--SSAVVTQESALTTSPGETVTLTCRSSTGAVTTSNYANW  156 (229)
+Confidence            899999999999999999999875531    112222332  1222233455678999999999999985  46789999
+
+
+Q ss_pred             EECCEEcccCCchhccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEEE
+Q 5GNIA_5GNIB     134 EKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWTV  213 (394)
+Q Consensus       134 ~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~v  213 (394)
+                      ++++......               +.                                            +...+....
+T Consensus       157 ~~~~~~~~~~---------------~~--------------------------------------------~~~~~~~~~  177 (229)
+T 1A6WH_1A6WL     157 VQEKPDHLFT---------------GL--------------------------------------------IGGTNNRAP  177 (229)
+Confidence            9987653100               00                                            000000000
+
+
+Q ss_pred             cCCCCEEEEEEEeCCcCCCccceEEEEEECCeEEEEEEcCCCcEEEEECCccChhCEEEEEEEEECCCcEEeeEEEEEEe
+Q 5GNIA_5GNIB     214 QNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVLFYQISSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVE  293 (394)
+Q Consensus       214 ~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~  293 (394)
+                      ...                   ..+...+          ......|.|..+...|+|.|.|.+.+...........|.|.
+T Consensus       178 ~~~-------------------~r~~~~~----------~~~~~~L~I~~~~~~D~G~Y~C~~~~~~~~~~~~~~~~~~~  228 (229)
+T 1A6WH_1A6WL     178 GVP-------------------ARFSGSL----------IGNKAALTITGAQTEDEAIYFCALWYSNHWVFGGGTKLTVL  228 (229)
+Confidence            001                   1111111          12357899999999999999999998765444555555542
+
+
+Q ss_pred             c
+Q 5GNIA_5GNIB     294 G  294 (394)
+Q Consensus       294 ~  294 (394)
+                      .
+T Consensus       229 ~  229 (229)
+T 1A6WH_1A6WL     229 E  229 (229)
+Confidence            1
+
+
+No 12
+>1A7QL_1A7QH
+Probab=99.24  E-value=3.3e-18  Score=131.68  Aligned_cols=195  Identities=14%  Similarity=0.129  Sum_probs=113.5  Template_Neff=7.309
+
+Q ss_pred             CeEEE-EcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCE--------------EEEE-----EeccCCeEEEEEC
+Q 5GNIA_5GNIB       6 SVDMK-SLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDV--------------LFYQ-----ISSMKSTESYFIP   65 (394)
+Q Consensus         6 ~~~l~-~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~--------------~~~~-----~~~~~~~~~l~i~   65 (394)
+                      .+.|+ -..+..|.+|++++|.|...+.    +...+.|++++.              .+..     .........|.|.
+T Consensus         1 ~~~~~~~~~~~~v~~g~~~~~~c~vs~~----~~~~v~w~~~~~~~~~~~~~w~k~~~~i~~~~k~~i~~~~~~~~L~I~   76 (221)
+T 1A7QL_1A7QH       1 DIVLTQSPASLSASVGETVTITCRAGGN----THNYLAWYQQKQGKSPQLLVYYTTTLAAGVPSRFSGSGSGTQYSLKIN   76 (221)
+Confidence            01111 1234568899999999999863    455666666553              3322     2234567899999
+
+
+Q ss_pred             CCcCccCEEEEEEEEECC----CceecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCC-CCeEEEEEECCEEc
+Q 5GNIA_5GNIB      66 EVRIYDSGTYKCTVIVNN----KEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-APIHFTIEKLELNE  140 (394)
+Q Consensus        66 ~~~~~d~G~Y~C~~~~~~----~~~~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~-~~~~~~w~~~~~~~  140 (394)
+                      .+..+|.|.|+|.+.+..    +...--.+.+.+.       .+.+..|.+|+.|+|.|.+.+.+ ++..+.|+|++...
+T Consensus        77 ~~~~~D~G~Ytc~a~n~~~~~~~~~~~~~~~~~~~-------~~~~~~v~~g~~~~l~C~vsg~~~~~~~v~W~k~~~~~  149 (221)
+T 1A7QL_1A7QH      77 SLQPDDFGSYYCQHFWSTPRSFGGGTKLEIQVQLQ-------ESGPGLVAPSQSLSITCTVSGFSLTGYGVNWVRQLPGK  149 (221)
+Confidence            999999999999999862    1111222233222       24456789999999999999876 46899999987642
+
+
+Q ss_pred             ccCCchhccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEEEcCCCCEE
+Q 5GNIA_5GNIB     141 KMVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWTVQNGKQLT  220 (394)
+Q Consensus       141 ~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~v~~G~~v~  220 (394)
+                      ..                            ...|                               .+..+.....+..+.
+T Consensus       150 ~~----------------------------~~~~-------------------------------~~~~~~~~~~~~~~~  170 (221)
+T 1A7QL_1A7QH     150 GL----------------------------EWLG-------------------------------MIWGDGNTAYNSALK  170 (221)
+Confidence            10                            0000                               001111111111111
+
+
+Q ss_pred             EEEEEeCCcCCCccceEEEEEECCeEEEEEEcCCCcEEEEECCccChhCEEEEEEEEECCCcEE-eeEEEEEEe
+Q 5GNIA_5GNIB     221 LQCFADVSTTSVKPQHQMLFYKDDVLFYQISSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKT-TAEYQLLVE  293 (394)
+Q Consensus       221 l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~-s~~~~l~v~  293 (394)
+                      -++.               ..++        .......|.|..+...|+|.|.|.+.+..+... .....|+|.
+T Consensus       171 ~r~~---------------~~~~--------~~~~~~~L~I~~~~~~DsG~Y~C~a~n~~~~~~~~~~~~~~~~  221 (221)
+T 1A7QL_1A7QH     171 SRLS---------------ISKD--------NSKSQVFLEMDSLHTDDTARYYCARERDYRLDYWGQGTTVTVS  221 (221)
+Confidence            1111               1110        012467899999999999999999998754321 111111110
+
+
+No 13
+>1A6WH_1A6WL
+Probab=99.14  E-value=2.2e-17  Score=128.03  Aligned_cols=183  Identities=14%  Similarity=0.044  Sum_probs=124.0  Template_Neff=8.865
+
+Q ss_pred             EEEEEECCCEEEcCCCCEEEEEEEeCCcCCCccceEEEEEECCeE-----E--------------------EEEE-cCCC
+Q 5GNIA_5GNIB     202 SVDMKSLPDWTVQNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVL-----F--------------------YQIS-SMKS  255 (394)
+Q Consensus       202 ~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~-----~--------------------~~~~-~~~~  255 (394)
+                      .|.|+..++..|.+|+.++|.|.+.+..   .+...+.|+|++..     +                    .... ....
+T Consensus         1 ~~~~~~~~~~~v~~G~~~~L~C~vsg~~---~~~~~V~W~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   77 (229)
+T 1A6WH_1A6WL       1 QVQLQQPGAELVKPGASVKLSCKASGYT---FTSYWMHWVKQRPGRGLEWIGRIDPNSGGTKYNEKFKSKATLTVDKPSS   77 (229)
+Confidence            1456777888999999999999999642   36799999999532     1                    0011 2345
+
+
+Q ss_pred             cEEEEECCccChhCEEEEEEEEECCCcE----EeeEEEEEEecCCCCeEEcCCccccCCCEEEEEEEeCCC--CCCeEEE
+Q 5GNIA_5GNIB     256 TESYFIPEVRIYDSGTYKCTVIVNNKEK----TTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE--KAPIHFT  329 (394)
+Q Consensus       256 ~~~l~i~~~~~~d~G~Y~C~~~~~~~~~----~s~~~~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~--~~~~~~~  329 (394)
+                      ...|.|..+...|+|.|.|.+.+.....    ......++|  .....-......+.+|+.++|.|.+.+.  .+...+.
+T Consensus        78 ~~~L~I~~~~~~DsG~Y~C~a~n~~g~~~~~~~~~~~~~~~--~~~~~~~~~~~~v~~G~~v~l~C~v~~~~~~~~~~v~  155 (229)
+T 1A6WH_1A6WL      78 TAYMQLSSLTSEDSAVYYCARYDYYGSSYFDYWGQGTTVTV--SSAVVTQESALTTSPGETVTLTCRSSTGAVTTSNYAN  155 (229)
+Confidence            6899999999999999999999875431    111222222  1222233455678899999999999985  3567899
+
+
+Q ss_pred             EEECCEEcc------------cccceEEcCCCCCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccccCCeEEeC
+Q 5GNIA_5GNIB     330 IEKLELNEK------------MVKLKREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTV  394 (394)
+Q Consensus       330 w~~~~~~~~------------~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~  394 (394)
+                      |++++....            .....+.......+...|.|......|.|.|+|.+.+........+..     |+|
+T Consensus       156 W~~~~~~~~~~~~~~~~~~~~~~~~~r~~~~~~~~~~~L~I~~~~~~D~G~Y~C~~~~~~~~~~~~~~~-----~~~  227 (229)
+T 1A6WH_1A6WL     156 WVQEKPDHLFTGLIGGTNNRAPGVPARFSGSLIGNKAALTITGAQTEDEAIYFCALWYSNHWVFGGGTK-----LTV  227 (229)
+Confidence            999888640            011234445556677789999999999999999999975321111110     000
+
+
+No 14
+>1A1OB_1A1OA
+Probab=99.13  E-value=2.5e-17  Score=131.37  Aligned_cols=268  Identities=14%  Similarity=0.122  Sum_probs=148.6  Template_Neff=4.570
+
+Q ss_pred             ECCCCCCEEecCcceEcCCCcEEEEEEcCCC-CCCeEEEEEECCEEcccCCchhccCCcCCceEEEEEEEcCCCCeEEEE
+Q 5GNIA_5GNIB      95 VEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSFR  173 (394)
+Q Consensus        95 v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~  173 (394)
+                      +...| .........+..|..+.|.|.+.+. ++.+.+.|+|++..+..................|.+......+.|.|.
+T Consensus         1 ~~~~p-~i~~~~~~~v~~G~~~~l~c~vsg~~~p~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~g~Y~   79 (375)
+T 1A1OB_1A1OA       1 IQRTP-KIQVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEYA   79 (375)
+Confidence            00112 2233455678899999999999986 467899999999998654333444555566778999999999999999
+
+
+Q ss_pred             EEEEEEccCCCCC-------------------Cccc--cc--EEc---C-----CeE--EEEEEEEECCCEEEcCCCCEE
+Q 5GNIA_5GNIB     174 CQARIISGIHMQT-------------------SEST--KS--ELV---T-----SFT--INSVDMKSLPDWTVQNGKQLT  220 (394)
+Q Consensus       174 C~~~~~~~~~~~~-------------------s~~s--~~--~~~---~-----~~~--~~~~~l~~~p~~~v~~G~~v~  220 (394)
+                      |++.|..|..+-.                   |.+.  +.  ++|   .     .|.  --++.....|.|.-.+|.   
+T Consensus        80 c~~~n~~gs~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---  156 (375)
+T 1A1OB_1A1OA      80 CRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRTEPRPPWIEQEGP---  156 (375)
+Confidence            9999987731000                   0000  00  000   0     000  000011111222222211   
+
+
+Q ss_pred             EEEEEeCCcCCCccceEEEEEECCeEEEEEEcCCCcEEEE----------------------------------------
+Q 5GNIA_5GNIB     221 LQCFADVSTTSVKPQHQMLFYKDDVLFYQISSMKSTESYF----------------------------------------  260 (394)
+Q Consensus       221 l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~~~~~~~~~l~----------------------------------------  260 (394)
+                                       -.|.++-..+...... ....|.                                        
+T Consensus       157 -----------------~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~~~~~  218 (375)
+T 1A1OB_1A1OA     157 -----------------EYWDRNTQIFKTNTQT-YRENLRIALRYYNQSEAGSHIIQRMYGCDLGPDGRLLRGHDQSAYD  218 (375)
+Confidence                             1222222222111000 000000                                        
+
+
+Q ss_pred             ---------------------------E----CCccChhCEEEEEEEEECCCcEEeeEEEEEEecCCCCeEEcCCccccC
+Q 5GNIA_5GNIB     261 ---------------------------I----PEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQ  309 (394)
+Q Consensus       261 ---------------------------i----~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~~~p~~~~~~~~v~~  309 (394)
+                                                 +    -.....+.+.|.|.+.+..... +....|.+..+|+......   ...
+T Consensus       219 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~-~~~~~l~v~~pP~~~~~~~---~~~  294 (375)
+T 1A1OB_1A1OA     219 GKDYIALNEDLSSWTAADTAAQITQRKWEAARVAEQLRAYLEGLCVEWLRRYLE-NGKETLQRADPPKTHVTHH---PVS  294 (375)
+Confidence                                       0    0123457789999999887654 4667777877776654433   346
+
+
+Q ss_pred             CCEEEEEEEeCCC-CCCeEEEEEECCEEcccccc-eEEcCCCCCcEEEEEEEEEcCCCcEEEEEEEEecccCCccccccc
+Q 5GNIA_5GNIB     310 GGIVRVQCSVPEE-KAPIHFTIEKLELNEKMVKL-KREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSEST  387 (394)
+Q Consensus       310 g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~~-~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s  387 (394)
+                      |..++|.|.+.+. ++..++.|+|++..+..... ..........+..+.+......+.|.|+|.+.|..++..-.-.|-
+T Consensus       295 g~~atl~C~~~G~~~p~~~vtW~kdg~~i~~~~~~~~~~~~~~~t~~~~~~~~v~~~d~g~Ytc~~~~~~~~~~~~~~~~  374 (375)
+T 1A1OB_1A1OA     295 DHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWE  374 (375)
+Confidence            9999999999985 45579999999999843211 111122222333444455666788999999999876521110000
+
+
+Q ss_pred             C
+Q 5GNIA_5GNIB     388 K  388 (394)
+Q Consensus       388 ~  388 (394)
+                      .
+T Consensus       375 ~  375 (375)
+T 1A1OB_1A1OA     375 P  375 (375)
+Confidence            0
+
+
+No 15
+>1A1NB_1A1NA
+Probab=99.10  E-value=4.7e-17  Score=129.55  Aligned_cols=277  Identities=12%  Similarity=0.068  Sum_probs=147.5  Template_Neff=4.544
+
+Q ss_pred             ECCCCCCEEecCcceEcCCCcEEEEEEcCCC-CCCeEEEEEECCEEcccCCchhccCCcCCceEEEEEEEcCCCCeEEEE
+Q 5GNIA_5GNIB      95 VEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSFR  173 (394)
+Q Consensus        95 v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~  173 (394)
+                      +..+| .........+..|..+.|.|.+.+. ++.....|+|++..+..................|.+......+.|.|.
+T Consensus         1 ~~~~p-~i~~~~~~~v~~g~~~~~~c~vsg~~~p~~~v~W~K~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~geY~   79 (375)
+T 1A1NB_1A1NA       1 IQRTP-KIQVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEYA   79 (375)
+Confidence            00111 1223455667899999999999986 567899999999998544333444455566678899999999999999
+
+
+Q ss_pred             EEEEEEccCCCCCCcccccEEcCCeEEEEEEEEE--CCCEEEcCCCCEEEEEEEeCCcCCCcc-----------------
+Q 5GNIA_5GNIB     174 CQARIISGIHMQTSESTKSELVTSFTINSVDMKS--LPDWTVQNGKQLTLQCFADVSTTSVKP-----------------  234 (394)
+Q Consensus       174 C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~--~p~~~v~~G~~v~l~C~~~~~~~~~~~-----------------  234 (394)
+                      |++.|..|...-.-+|-.       .+.+..++.  ..-...-.|++--+....    .....                 
+T Consensus        80 c~~~n~~g~~~~~~~~~~-------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~----~~~~~~~~~~~~~~~~~~~~~~  148 (375)
+T 1A1NB_1A1NA      80 CRVNHVTLSQPKIVKWDR-------DMGSHSMRYFYTAMSRPGRGEPRFIAVGY----VDDTQFVRFDSDAASPRTEPRP  148 (375)
+Confidence            999998763000000000       000000000  000000011110000000    00000                 
+
+
+Q ss_pred             -----ceEEEEEECCeEEEEEEcCCCcEEE--------------------------------------------------
+Q 5GNIA_5GNIB     235 -----QHQMLFYKDDVLFYQISSMKSTESY--------------------------------------------------  259 (394)
+Q Consensus       235 -----~~~~~w~k~~~~~~~~~~~~~~~~l--------------------------------------------------  259 (394)
+                           ...-.|.|+.+.+....... ...|                                                  
+T Consensus       149 ~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~~~~~~~~~~~~~~  227 (375)
+T 1A1NB_1A1NA     149 PWIEQEGPEYWDRNTQIFKTNTQTY-RESLRNLRGYYNQSEAGSHIIQRMYGCDLGPDGRLLRGHDQSAYDGKDYIALNE  227 (375)
+Confidence                 00012333333322211000 0000                                                  
+
+
+Q ss_pred             ---------------------EECCccChhCEEEEEEEEECCCcEEeeEEEEEEecCCCCeEEcCCccccCCCEEEEEEE
+Q 5GNIA_5GNIB     260 ---------------------FIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCS  318 (394)
+Q Consensus       260 ---------------------~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~  318 (394)
+                                           .--.....|.+.|.|.+.+..... .....|.+..+|+......   ...|..++|.|.
+T Consensus       228 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~-~~~~~l~v~~pP~~~~~~~---~~~g~~~~L~C~  303 (375)
+T 1A1NB_1A1NA     228 DLSSWTAADTAAQITQRKWEAARVAEQLRAYLEGLCVEWLRRYLE-NGKETLQRADPPKTHVTHH---PVSDHEATLRCW  303 (375)
+Confidence                                 000123356678999988876553 4566777777666554433   346999999999
+
+
+Q ss_pred             eCCCC-CCeEEEEEECCEEcccccc-eEEcCCCCCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccccC
+Q 5GNIA_5GNIB     319 VPEEK-APIHFTIEKLELNEKMVKL-KREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTK  388 (394)
+Q Consensus       319 ~~~~~-~~~~~~w~~~~~~~~~~~~-~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~  388 (394)
+                      +.+.. +...+.|+|++..+..... ..........+..+.+......+.|.|+|.+.|..++..-.-.|-.
+T Consensus       304 ~~G~~p~~~~vtW~kdg~~i~~~~~~~~~~~~~~~t~~~~~~~~v~~~d~g~YtC~~~~~~~~~~~~~~~~~  375 (375)
+T 1A1NB_1A1NA     304 ALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWEP  375 (375)
+Confidence            99854 4479999999999853211 1122222333445555566777889999999998765211100000
+
+
+No 16
+>1A1NB_1A1NA
+Probab=99.03  E-value=1.5e-16  Score=126.26  Aligned_cols=184  Identities=14%  Similarity=0.148  Sum_probs=121.4  Template_Neff=4.544
+
+Q ss_pred             cCCCeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEEEEEec-------cCCeEEEEECCCcCccCEEE
+Q 5GNIA_5GNIB       3 TINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLFYQISS-------MKSTESYFIPEVRIYDSGTY   75 (394)
+Q Consensus         3 ~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~~~~~~-------~~~~~~l~i~~~~~~d~G~Y   75 (394)
+                      --..+.+.+.+...+..|+++.|.|...+..  .+...+.|+|+++.+.....       +.....|.|......|.|.|
+T Consensus         1 ~~~~p~i~~~~~~~v~~g~~~~~~c~vsg~~--~p~~~v~W~K~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~geY   78 (375)
+T 1A1NB_1A1NA       1 IQRTPKIQVYSRHPAENGKSNFLNCYVSGFH--PSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEY   78 (375)
+Confidence            0134567777888899999999999998631  25689999999998876521       22235789999999999999
+
+
+Q ss_pred             EEEEEECCCcee--------------------------------------------------------------------
+Q 5GNIA_5GNIB      76 KCTVIVNNKEKT--------------------------------------------------------------------   87 (394)
+Q Consensus        76 ~C~~~~~~~~~~--------------------------------------------------------------------   87 (394)
+                      .|.+.+..++..                                                                    
+T Consensus        79 ~c~~~n~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  158 (375)
+T 1A1NB_1A1NA      79 ACRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRTEPRPPWIEQEGPEY  158 (375)
+Confidence            999998766432                                                                    
+
+
+Q ss_pred             --------------------------------------------------------------------------------
+Q 5GNIA_5GNIB      88 --------------------------------------------------------------------------------   87 (394)
+Q Consensus        88 --------------------------------------------------------------------------------   87 (394)
+                                                                                                      
+T Consensus       159 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  238 (375)
+T 1A1NB_1A1NA     159 WDRNTQIFKTNTQTYRESLRNLRGYYNQSEAGSHIIQRMYGCDLGPDGRLLRGHDQSAYDGKDYIALNEDLSSWTAADTA  238 (375)
+Confidence                                                                                            
+
+
+Q ss_pred             ----------------------------------cceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCC-CCeEEE
+Q 5GNIA_5GNIB      88 ----------------------------------TAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-APIHFT  132 (394)
+Q Consensus        88 ----------------------------------s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~-~~~~~~  132 (394)
+                                                        .....|.+..+|+.....   ....|..++|.|.+.+.. +.+++.
+T Consensus       239 ~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~l~v~~pP~~~~~~---~~~~g~~~~L~C~~~G~~p~~~~vt  315 (375)
+T 1A1NB_1A1NA     239 AQITQRKWEAARVAEQLRAYLEGLCVEWLRRYLENGKETLQRADPPKTHVTH---HPVSDHEATLRCWALGFYPAEITLT  315 (375)
+Confidence                                              011223333333332222   234699999999999854 447999
+
+
+Q ss_pred             EEECCEEcccCCc-hhccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCE
+Q 5GNIA_5GNIB     133 IEKLELNEKMVKL-KREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDW  211 (394)
+Q Consensus       133 w~~~~~~~~~~~~-~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~  211 (394)
+                      |+|++..+..... ..........+..+.+......+.|.|+|.+.|..++                  +          
+T Consensus       316 W~kdg~~i~~~~~~~~~~~~~~~t~~~~~~~~v~~~d~g~YtC~~~~~~~~------------------~----------  367 (375)
+T 1A1NB_1A1NA     316 WQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLP------------------K----------  367 (375)
+Confidence            9999998743211 1122223334456666777888999999999998764                  1          
+
+
+Q ss_pred             EEcCCCCEEEEEEEeCCcCCCccceEEEEEE
+Q 5GNIA_5GNIB     212 TVQNGKQLTLQCFADVSTTSVKPQHQMLFYK  242 (394)
+Q Consensus       212 ~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k  242 (394)
+                            .++|+                 |.-
+T Consensus       368 ------~~~~~-----------------~~~  375 (375)
+T 1A1NB_1A1NA     368 ------PLTLR-----------------WEP  375 (375)
+Confidence                  11221                 100
+
+
+No 17
+>1A1MA_1A1MB
+Probab=99.00  E-value=2.2e-16  Score=125.61  Aligned_cols=185  Identities=14%  Similarity=0.116  Sum_probs=122.9  Template_Neff=4.727
+
+Q ss_pred             CccCC-CeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEEEEEec-----cCCeEEEEE---CCCcCcc
+Q 5GNIA_5GNIB       1 SFTIN-SVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLFYQISS-----MKSTESYFI---PEVRIYD   71 (394)
+Q Consensus         1 ~~~~~-~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~~~~~~-----~~~~~~l~i---~~~~~~d   71 (394)
+                      .++++ .+.+.+.+.  -..|+.++|.|.+.+..  .+...+.|+|||+.+.....     .....+|.+   ..+...|
+T Consensus       178 ~l~~~~pp~~~~~~~--p~sg~~a~l~C~~~G~~--~p~i~VtW~kdg~~i~~~~~~~~t~~~~~gt~~~~a~~~v~~~d  253 (377)
+T 1A1MA_1A1MB     178 TLQRADPPKTHVTHH--PVSDHEATLRCWALGFY--PAEITLTWQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGE  253 (377)
+Confidence            01111 122222222  24899999999998621  26789999999999987521     112234433   4477889
+
+
+Q ss_pred             CEEEEEEEEECCCceecceEEE-----EECCCCCCEEecCcceEcCCCcEEEEEEcCCC-CCCeEEEEEECCEEcccCCc
+Q 5GNIA_5GNIB      72 SGTYKCTVIVNNKEKTTAEYQL-----LVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFTIEKLELNEKMVKL  145 (394)
+Q Consensus        72 ~G~Y~C~~~~~~~~~~s~~~~l-----~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~~  145 (394)
+                      +|.|+|.+.+..+..   ++.+     .+.. |.......+..+.+|+.++|.|.+.+. ++...+.|+|++..+.....
+T Consensus       254 ~~~ytc~v~~~~~~~---~~~~~~~~~~~~~-~p~i~~~~~~~v~~g~~~~l~c~v~g~~~~~~~v~W~k~g~~i~~~~~  329 (377)
+T 1A1MA_1A1MB     254 EQRYTCHVQHEGLPK---PLTLRWEPHHIQR-TPKIQVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEH  329 (377)
+Confidence            999999988876431   2222     1122 334456777889999999999999986 46789999999999865433
+
+
+Q ss_pred             hhccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEEEcCCCCEEEEEEE
+Q 5GNIA_5GNIB     146 KREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWTVQNGKQLTLQCFA  225 (394)
+Q Consensus       146 ~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~v~~G~~v~l~C~~  225 (394)
+                      .+...........|.|......+.|.|+|.+.|..|.                                           
+T Consensus       330 ~~~~~~~~~~~~~L~i~~~~~~d~g~Ytc~v~n~~g~-------------------------------------------  366 (377)
+T 1A1MA_1A1MB     330 SDLSFSKDWSFYLLYYTEFTPTEKDEYACRVNHVTLS-------------------------------------------  366 (377)
+Confidence            3344444556678999999999999999999998874                                           
+
+
+Q ss_pred             eCCcCCCccceEEEEEECC
+Q 5GNIA_5GNIB     226 DVSTTSVKPQHQMLFYKDD  244 (394)
+Q Consensus       226 ~~~~~~~~~~~~~~w~k~~  244 (394)
+                              ......|.||.
+T Consensus       367 --------~~~~~~~~~~~  377 (377)
+T 1A1MA_1A1MB     367 --------QPKIVKWDRDM  377 (377)
+Confidence                    11233333321
+
+
+No 18
+>1A1OB_1A1OA
+Probab=99.00  E-value=2.4e-16  Score=125.01  Aligned_cols=184  Identities=15%  Similarity=0.155  Sum_probs=121.5  Template_Neff=4.570
+
+Q ss_pred             cCCCeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEEEEEec-------cCCeEEEEECCCcCccCEEE
+Q 5GNIA_5GNIB       3 TINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLFYQISS-------MKSTESYFIPEVRIYDSGTY   75 (394)
+Q Consensus         3 ~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~~~~~~-------~~~~~~l~i~~~~~~d~G~Y   75 (394)
+                      --..+.+.+.+...+..|+.+.|.|...+..  .+...+.|+|++..+.....       ......|.|..+...|.|.|
+T Consensus         1 ~~~~p~i~~~~~~~v~~G~~~~l~c~vsg~~--~p~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~g~Y   78 (375)
+T 1A1OB_1A1OA       1 IQRTPKIQVYSRHPAENGKSNFLNCYVSGFH--PSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEY   78 (375)
+Confidence            0134567777888899999999999998631  25689999999998877532       12235789999999999999
+
+
+Q ss_pred             EEEEEECCCcee--------------------------------------------------------------------
+Q 5GNIA_5GNIB      76 KCTVIVNNKEKT--------------------------------------------------------------------   87 (394)
+Q Consensus        76 ~C~~~~~~~~~~--------------------------------------------------------------------   87 (394)
+                      .|.+.+..++..                                                                    
+T Consensus        79 ~c~~~n~~gs~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  158 (375)
+T 1A1OB_1A1OA      79 ACRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRTEPRPPWIEQEGPEY  158 (375)
+Confidence            999998776532                                                                    
+
+
+Q ss_pred             --------------------------------------------------------------------------------
+Q 5GNIA_5GNIB      88 --------------------------------------------------------------------------------   87 (394)
+Q Consensus        88 --------------------------------------------------------------------------------   87 (394)
+                                                                                                      
+T Consensus       159 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  238 (375)
+T 1A1OB_1A1OA     159 WDRNTQIFKTNTQTYRENLRIALRYYNQSEAGSHIIQRMYGCDLGPDGRLLRGHDQSAYDGKDYIALNEDLSSWTAADTA  238 (375)
+Confidence                                                                                            
+
+
+Q ss_pred             ----------------------------------cceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCC-CCCeEEE
+Q 5GNIA_5GNIB      88 ----------------------------------TAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFT  132 (394)
+Q Consensus        88 ----------------------------------s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~  132 (394)
+                                                        +....|.+..+|+.....   ....|..++|.|.+.+. ++.+++.
+T Consensus       239 ~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~l~v~~pP~~~~~~---~~~~g~~atl~C~~~G~~~p~~~vt  315 (375)
+T 1A1OB_1A1OA     239 AQITQRKWEAARVAEQLRAYLEGLCVEWLRRYLENGKETLQRADPPKTHVTH---HPVSDHEATLRCWALGFYPAEITLT  315 (375)
+Confidence                                              011223333333332222   23469999999999985 4557999
+
+
+Q ss_pred             EEECCEEcccCCc-hhccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCE
+Q 5GNIA_5GNIB     133 IEKLELNEKMVKL-KREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDW  211 (394)
+Q Consensus       133 w~~~~~~~~~~~~-~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~  211 (394)
+                      |+|++..+..... ..........+..+.+......+.|.|+|.+.|..++                             
+T Consensus       316 W~kdg~~i~~~~~~~~~~~~~~~t~~~~~~~~v~~~d~g~Ytc~~~~~~~~-----------------------------  366 (375)
+T 1A1OB_1A1OA     316 WQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLP-----------------------------  366 (375)
+Confidence            9999998743211 1112222333445556667788899999999998764                             
+
+
+Q ss_pred             EEcCCCCEEEEEEEeCCcCCCccceEEEEEE
+Q 5GNIA_5GNIB     212 TVQNGKQLTLQCFADVSTTSVKPQHQMLFYK  242 (394)
+Q Consensus       212 ~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k  242 (394)
+                           .+++|+                 |.-
+T Consensus       367 -----~~~~~~-----------------~~~  375 (375)
+T 1A1OB_1A1OA     367 -----KPLTLR-----------------WEP  375 (375)
+Confidence                 112221                 100
+
+
+No 19
+>1A9EB_1A9EA
+Probab=98.97  E-value=3.5e-16  Score=124.01  Aligned_cols=186  Identities=13%  Similarity=0.151  Sum_probs=119.2  Template_Neff=4.576
+
+Q ss_pred             ccCCCeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEEEEEe-------ccCCeEEEEECCCcCccCEE
+Q 5GNIA_5GNIB       2 FTINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLFYQIS-------SMKSTESYFIPEVRIYDSGT   74 (394)
+Q Consensus         2 ~~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~~~~~-------~~~~~~~l~i~~~~~~d~G~   74 (394)
+                      .-=..+.+.+.....+..|+.+.|.|...+..  .+...+.|+||+..+....       .......|.|......|.|.
+T Consensus         1 ~~~~~P~i~~~~~~~~~~g~~~~~~c~v~g~~--p~~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~g~   78 (377)
+T 1A9EB_1A9EA       1 MIQRTPKIQVYSRHPAENGKSNFLNCYVSGFH--PSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDE   78 (377)
+Confidence            00134566677778899999999999998632  1368999999999988742       12223568899999999999
+
+
+Q ss_pred             EEEEEEECCCceec------------------------------------------------------------------
+Q 5GNIA_5GNIB      75 YKCTVIVNNKEKTT------------------------------------------------------------------   88 (394)
+Q Consensus        75 Y~C~~~~~~~~~~s------------------------------------------------------------------   88 (394)
+                      |.|.+.+..++..-                                                                  
+T Consensus        79 Y~c~~~n~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  158 (377)
+T 1A9EB_1A9EA      79 YACRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRTEPRAPWIEQEGPE  158 (377)
+Confidence            99999987655320                                                                  
+
+
+Q ss_pred             --------------------------------------------------------------------------------
+Q 5GNIA_5GNIB      89 --------------------------------------------------------------------------------   88 (394)
+Q Consensus        89 --------------------------------------------------------------------------------   88 (394)
+                                                                                                      
+T Consensus       159 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  238 (377)
+T 1A9EB_1A9EA     159 YWDRNTQIFKTNTQTYRESLRNLRGYYNQSEAGSHIIQRMYGCDLGPDGRLLRGHDQSAYDGKDYIALNEDLSSWTAADT  238 (377)
+Confidence                                                                                            
+
+
+Q ss_pred             ------------------------------------ceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCC-CCCeEE
+Q 5GNIA_5GNIB      89 ------------------------------------AEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHF  131 (394)
+Q Consensus        89 ------------------------------------~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~  131 (394)
+                                                          ....|.+..+|+..+.   .....|..++|.|.+.+. ++++++
+T Consensus       239 ~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~l~~~~pP~~~~~---~~~~~g~~~tL~C~~~G~~p~~~~v  315 (377)
+T 1A9EB_1A9EA     239 AAQITQRKWEAARVAEQLRAYLEGLCVEWLRRYLENGKETLQRADPPKTHVT---HHPVSDHEATLRCWALGFYPAEITL  315 (377)
+Confidence                                                0112223333332222   223469999999999996 455699
+
+
+Q ss_pred             EEEECCEEcccCCch-hccCCcCCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCC
+Q 5GNIA_5GNIB     132 TIEKLELNEKMVKLK-REKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPD  210 (394)
+Q Consensus       132 ~w~~~~~~~~~~~~~-~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~  210 (394)
+                      .|+|++..+...... .........+..+.+......+.+.|+|.+.+..++                  +.+.++..|+
+T Consensus       316 tW~kdg~~~~~~~~~~~~~~~~~~t~~~~~~~~v~~~d~~~ytC~v~~~~~~------------------~~~~~~~~~~  377 (377)
+T 1A9EB_1A9EA     316 TWQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLP------------------KPLTLRWEPS  377 (377)
+Confidence            999999987432111 111222233444445556677889999999998764                  2222222221
+
+
+No 20
+>1A9EB_1A9EA
+Probab=98.88  E-value=1.4e-15  Score=120.15  Aligned_cols=186  Identities=13%  Similarity=0.134  Sum_probs=115.3  Template_Neff=4.576
+
+Q ss_pred             EcCCeEEEEEEEEECCCEEEcCCCCEEEEEEEeCCcCCCccceEEEEEECCeEEEEEE-------cCCCcEEEEECCccC
+Q 5GNIA_5GNIB     194 LVTSFTINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVLFYQIS-------SMKSTESYFIPEVRI  266 (394)
+Q Consensus       194 ~~~~~~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~~-------~~~~~~~l~i~~~~~  266 (394)
+                      .|    -..+.+.+.....+..|+.+.|.|.+.+..   .+...+.|+||+..+....       .+.....|.|.....
+T Consensus         1 ~~----~~~P~i~~~~~~~~~~g~~~~~~c~v~g~~---p~~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~   73 (377)
+T 1A9EB_1A9EA       1 MI----QRTPKIQVYSRHPAENGKSNFLNCYVSGFH---PSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTP   73 (377)
+Confidence            00    023456677778899999999999998531   1468999999999988742       122335688999999
+
+
+Q ss_pred             hhCEEEEEEEEECCCcEEe-------------------------------------------------------------
+Q 5GNIA_5GNIB     267 YDSGTYKCTVIVNNKEKTT-------------------------------------------------------------  285 (394)
+Q Consensus       267 ~d~G~Y~C~~~~~~~~~~s-------------------------------------------------------------  285 (394)
+                      .|.|.|.|.+.+...+..-                                                             
+T Consensus        74 ~d~g~Y~c~~~n~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  153 (377)
+T 1A9EB_1A9EA      74 TEKDEYACRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRTEPRAPWIE  153 (377)
+Confidence            9999999999887654320                                                             
+
+
+Q ss_pred             --------------------------------------------------------------------------------
+Q 5GNIA_5GNIB     286 --------------------------------------------------------------------------------  285 (394)
+Q Consensus       286 --------------------------------------------------------------------------------  285 (394)
+                                                                                                      
+T Consensus       154 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  233 (377)
+T 1A9EB_1A9EA     154 QEGPEYWDRNTQIFKTNTQTYRESLRNLRGYYNQSEAGSHIIQRMYGCDLGPDGRLLRGHDQSAYDGKDYIALNEDLSSW  233 (377)
+Confidence                                                                                            
+
+
+Q ss_pred             -----------------------------------------eEEEEEEecCCCCeEEcCCccccCCCEEEEEEEeCCC-C
+Q 5GNIA_5GNIB     286 -----------------------------------------AEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-K  323 (394)
+Q Consensus       286 -----------------------------------------~~~~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~-~  323 (394)
+                                                               ....|.+..+|+..+.   .....|..++|+|.+.+. +
+T Consensus       234 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~l~~~~pP~~~~~---~~~~~g~~~tL~C~~~G~~p  310 (377)
+T 1A9EB_1A9EA     234 TAADTAAQITQRKWEAARVAEQLRAYLEGLCVEWLRRYLENGKETLQRADPPKTHVT---HHPVSDHEATLRCWALGFYP  310 (377)
+Confidence                                                     0112222223322222   123469999999999995 4
+
+
+Q ss_pred             CCeEEEEEECCEEcccccc-eEEcCCCCCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccccCC
+Q 5GNIA_5GNIB     324 APIHFTIEKLELNEKMVKL-KREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKS  389 (394)
+Q Consensus       324 ~~~~~~w~~~~~~~~~~~~-~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~  389 (394)
+                      ++..+.|+|++..+..... ..........+..+.+......+.+.|+|.+.+...+....-.+-.+
+T Consensus       311 ~~~~vtW~kdg~~~~~~~~~~~~~~~~~~t~~~~~~~~v~~~d~~~ytC~v~~~~~~~~~~~~~~~~  377 (377)
+T 1A9EB_1A9EA     311 AEITLTWQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWEPS  377 (377)
+Confidence            5568999999999853211 11111222223333344455567889999999987652211110000
+
+
+No 21
+>1A9EB_1A9EA
+Probab=98.40  E-value=3.2e-13  Score=104.75  Aligned_cols=195  Identities=15%  Similarity=0.127  Sum_probs=115.7  Template_Neff=4.576
+
+Q ss_pred             EECCCCCCEEecCcceEcCCCcEEEEEEcCCCC-CCeEEEEEECCEEcccCCchhccCCcCCceEEEEEEEcCCCCeEEE
+Q 5GNIA_5GNIB      94 LVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-APIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSF  172 (394)
+Q Consensus        94 ~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~-~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y  172 (394)
+                      .+...|+. .......+..|+.+.|.|.+.+.. +.+.+.|+|++..+...............+..|.+......+.|.|
+T Consensus         1 ~~~~~P~i-~~~~~~~~~~g~~~~~~c~v~g~~p~~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~g~Y   79 (377)
+T 1A9EB_1A9EA       1 MIQRTPKI-QVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEY   79 (377)
+Confidence            01112222 334556788999999999999864 4789999999999865433444455566677889999999999999
+
+
+Q ss_pred             EEEEEEEccCCCCC------------------------------------------------------------------
+Q 5GNIA_5GNIB     173 RCQARIISGIHMQT------------------------------------------------------------------  186 (394)
+Q Consensus       173 ~C~~~~~~~~~~~~------------------------------------------------------------------  186 (394)
+                      .|++.|..|...-.                                                                  
+T Consensus        80 ~c~~~n~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  159 (377)
+T 1A9EB_1A9EA      80 ACRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRTEPRAPWIEQEGPEY  159 (377)
+Confidence            99999987741100                                                                  
+
+
+Q ss_pred             -----------------------------------------------------------------------Cccccc---
+Q 5GNIA_5GNIB     187 -----------------------------------------------------------------------SESTKS---  192 (394)
+Q Consensus       187 -----------------------------------------------------------------------s~~s~~---  192 (394)
+                                                                                             |++.-+   
+T Consensus       160 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  239 (377)
+T 1A9EB_1A9EA     160 WDRNTQIFKTNTQTYRESLRNLRGYYNQSEAGSHIIQRMYGCDLGPDGRLLRGHDQSAYDGKDYIALNEDLSSWTAADTA  239 (377)
+Confidence                                                                                   000000   
+
+
+Q ss_pred             -----------------------EEcC------CeEEEEEEEEECCC----EEEcCCCCEEEEEEEeCCcCCCccceEEE
+Q 5GNIA_5GNIB     193 -----------------------ELVT------SFTINSVDMKSLPD----WTVQNGKQLTLQCFADVSTTSVKPQHQML  239 (394)
+Q Consensus       193 -----------------------~~~~------~~~~~~~~l~~~p~----~~v~~G~~v~l~C~~~~~~~~~~~~~~~~  239 (394)
+                                             +-|+      +-....+.....|.    .....|+.++|+|.+.+..   .+...+.
+T Consensus       240 ~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~l~~~~pP~~~~~~~~~~g~~~tL~C~~~G~~---p~~~~vt  316 (377)
+T 1A9EB_1A9EA     240 AQITQRKWEAARVAEQLRAYLEGLCVEWLRRYLENGKETLQRADPPKTHVTHHPVSDHEATLRCWALGFY---PAEITLT  316 (377)
+Confidence                                   0000      00000000011111    1123699999999998532   2456899
+
+
+Q ss_pred             EEECCeEEEEEEc-----CCCcEE---EEECCccChhCEEEEEEEEECCCcEEeeEEEEEEecC
+Q 5GNIA_5GNIB     240 FYKDDVLFYQISS-----MKSTES---YFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVEGV  295 (394)
+Q Consensus       240 w~k~~~~~~~~~~-----~~~~~~---l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~  295 (394)
+                      |+||+..+.....     .....+   +.+-.+...|.|.|+|.+.+....   .++.+.....
+T Consensus       317 W~kdg~~~~~~~~~~~~~~~~~~t~~~~~~~~v~~~d~~~ytC~v~~~~~~---~~~~~~~~~~  377 (377)
+T 1A9EB_1A9EA     317 WQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLP---KPLTLRWEPS  377 (377)
+Confidence            9999998875421     111222   334457789999999999877542   2333221100
+
+
+No 22
+>1A6UL_1A6UH
+Probab=97.41  E-value=5.7e-10  Score=80.02  Aligned_cols=95  Identities=18%  Similarity=0.136  Sum_probs=67.0  Template_Neff=7.694
+
+Q ss_pred             CccCCCeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEE-----E-------------------EEEe--
+Q 5GNIA_5GNIB       1 SFTINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVL-----F-------------------YQIS--   54 (394)
+Q Consensus         1 ~~~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~-----~-------------------~~~~--   54 (394)
+                      .+++-.+.|...|+..|.+|+.++|.|.+.+..  .+...+.|+|++..     +                   ....  
+T Consensus       104 ~~~~~~~~~~~~~~~~v~~G~~v~l~C~~sg~~--~~~~~v~W~k~~~~~~~~~~~~~~~~~~~~~~~~~~~~r~~~~~~  181 (228)
+T 1A6UL_1A6UH     104 KLTVLQVQLQQPGAELVKPGASVKLSCKASGYT--FTSYWMHWVKQRPGRGLEWIGRIDPNSGGTKYNEKFKSKATLTVD  181 (228)
+Confidence            135556788899999999999999999998642  36789999999642     0                   0011  
+
+
+Q ss_pred             ccCCeEEEEECCCcCccCEEEEEEEEECCCceec----ceEEEEECC
+Q 5GNIA_5GNIB      55 SMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTT----AEYQLLVEG   97 (394)
+Q Consensus        55 ~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s----~~~~l~v~~   97 (394)
+                      .......|.|..+...|+|.|.|.+.+..++...    ....++|..
+T Consensus       182 ~~~~~~~L~i~~~~~~DsG~Y~C~a~n~~G~~~~~~~~~~~~~~~~~  228 (228)
+T 1A6UL_1A6UH     182 KPSSTAYMQLSSLTSEDSAVYYCARYDYYGSSYFDYWGQGTTVTVSS  228 (228)
+Confidence            1335689999999999999999999998776211    112221110
+
+
+No 23
+>1A7RH_1A7RL
+Probab=97.35  E-value=7.8e-10  Score=78.42  Aligned_cols=98  Identities=11%  Similarity=0.055  Sum_probs=61.3  Template_Neff=6.716
+
+Q ss_pred             EEEEecCCCCeEEcCCccccCCCEEEEEEEeCCCC-CCeEEEEEECCEEcc----------------cccceEEcCCC--
+Q 5GNIA_5GNIB     289 QLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-APIHFTIEKLELNEK----------------MVKLKREKNSR--  349 (394)
+Q Consensus       289 ~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~~-~~~~~~w~~~~~~~~----------------~~~~~~~~~~~--  349 (394)
+                      .+.       .-.+.+..|.+|+.|+|.|.+.+.+ ++..+.|||++....                .....+.....  
+T Consensus         1 ~~~-------~~~~~~~~v~~G~~v~l~C~vsGtp~~~~~V~W~kd~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   73 (223)
+T 1A7RH_1A7RL       1 QVQ-------LQESGPGLVAPSQSLSITCTVSGFSLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDN   73 (223)
+Confidence            000       0124456789999999999999865 278999999987421                00011122222  
+
+
+Q ss_pred             CCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccc--------------cCCeEEeC
+Q 5GNIA_5GNIB     350 DQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSES--------------TKSELVTV  394 (394)
+Q Consensus       350 ~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~--------------s~~~~~~~  394 (394)
+                      ..+...|.|.....+|.|.|+|.+.|..|.. .+|..              .....|.+
+T Consensus        74 ~~~~~~L~I~~~~~~D~G~YtC~a~N~~g~~-~~~~~~~~~~~~~~~~~~~p~~~~v~~  131 (223)
+T 1A7RH_1A7RL      74 SKSQVFLKMNSLHTDDTARYYCARERDYRLD-YWGQGTTLTVSSDIVLTQSPASLSASV  131 (223)
+Confidence            4578899999999999999999999998752 22211              01111100
+
+
+No 24
+>1A7NH_1A7NL
+Probab=97.33  E-value=8.8e-10  Score=78.16  Aligned_cols=99  Identities=12%  Similarity=0.083  Sum_probs=62.1  Template_Neff=6.810
+
+Q ss_pred             EEEEecCCCCeEEcCCccccCCCEEEEEEEeCCCC-CCeEEEEEECCEEccc----------------ccceEEcCCC--
+Q 5GNIA_5GNIB     289 QLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-APIHFTIEKLELNEKM----------------VKLKREKNSR--  349 (394)
+Q Consensus       289 ~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~~-~~~~~~w~~~~~~~~~----------------~~~~~~~~~~--  349 (394)
+                      .+.+       -.+.+..|.+|+.++|.|.+.+.+ ++....|||++.....                ....+.....  
+T Consensus         1 ~~~~-------~~~~~~~V~~G~~~~leC~vsG~p~~~~~V~W~k~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~is~~~   73 (223)
+T 1A7NH_1A7NL       1 QVQL-------QESGPGLVAPSQSLSITCTVSGFSLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDN   73 (223)
+Confidence            0001       124556789999999999999864 2789999999995210                0011122222  
+
+
+Q ss_pred             CCcEEEEEEEEEcCCCcEEEEEEEEecccCCccccc-------------ccCCeEEeC
+Q 5GNIA_5GNIB     350 DQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSE-------------STKSELVTV  394 (394)
+Q Consensus       350 ~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~-------------~s~~~~~~~  394 (394)
+                      ..+...|.|.....+|.|.|+|.+.|..|..+.++.             ....+.|..
+T Consensus        74 ~~~~~~L~I~~~~~~D~G~YtC~a~N~~g~~~~~~~~~~~~~~~~~~~~~p~~~~v~~  131 (223)
+T 1A7NH_1A7NL      74 SKSQVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTVTVSSDIVLTQSPASLSASV  131 (223)
+Confidence            367889999999999999999999999875222211             001111100
+
+
+No 25
+>1A7QL_1A7QH
+Probab=97.31  E-value=1e-09  Score=77.96  Aligned_cols=94  Identities=13%  Similarity=0.064  Sum_probs=62.3  Template_Neff=7.309
+
+Q ss_pred             CccC---------------CCeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEE-----E----------
+Q 5GNIA_5GNIB       1 SFTI---------------NSVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVL-----F----------   50 (394)
+Q Consensus         1 ~~~~---------------~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~-----~----------   50 (394)
+                      .+.+               -.+.|+..++..|.+|+.++|.|.+.+.+  .+...+.|+|++..     +          
+T Consensus        87 tc~a~n~~~~~~~~~~~~~~~~~~~~~~~~~v~~g~~~~l~C~vsg~~--~~~~~v~W~k~~~~~~~~~~~~~~~~~~~~  164 (221)
+T 1A7QL_1A7QH      87 YCQHFWSTPRSFGGGTKLEIQVQLQESGPGLVAPSQSLSITCTVSGFS--LTGYGVNWVRQLPGKGLEWLGMIWGDGNTA  164 (221)
+Confidence            0000               12557778899999999999999998753  24589999999873     0          
+
+
+Q ss_pred             --------EEEec--cCCeEEEEECCCcCccCEEEEEEEEECCCceec-ceEEEEEC
+Q 5GNIA_5GNIB      51 --------YQISS--MKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTT-AEYQLLVE   96 (394)
+Q Consensus        51 --------~~~~~--~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s-~~~~l~v~   96 (394)
+                              .....  ......|.|..+..+|+|.|.|.+.+..+...- ....|+|.
+T Consensus       165 ~~~~~~~r~~~~~~~~~~~~~L~I~~~~~~DsG~Y~C~a~n~~~~~~~~~~~~~~~~  221 (221)
+T 1A7QL_1A7QH     165 YNSALKSRLSISKDNSKSQVFLEMDSLHTDDTARYYCARERDYRLDYWGQGTTVTVS  221 (221)
+Confidence                    00001  235689999999999999999999987653211 11111110
+
+
+No 26
+>1A7OH_1A7OL
+Probab=97.30  E-value=1e-09  Score=77.69  Aligned_cols=99  Identities=12%  Similarity=0.070  Sum_probs=62.0  Template_Neff=6.836
+
+Q ss_pred             EEEEecCCCCeEEcCCccccCCCEEEEEEEeCCCC-CCeEEEEEECCEEccc----------------ccceEEcCCC--
+Q 5GNIA_5GNIB     289 QLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-APIHFTIEKLELNEKM----------------VKLKREKNSR--  349 (394)
+Q Consensus       289 ~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~~-~~~~~~w~~~~~~~~~----------------~~~~~~~~~~--  349 (394)
+                      .+.       .-.+.+..|.+|+.++|.|.+.+.+ ++....|||++.....                ....+.....  
+T Consensus         1 ~~~-------~~~~~~~~V~~G~~~~leC~vsG~~~~~~~V~Wfk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~is~~~   73 (222)
+T 1A7OH_1A7OL       1 QVQ-------LQESGPGLVAPSQSLSITCTVSGFSLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDN   73 (222)
+Confidence            000       1124556789999999999999864 2789999999995210                0011112222  
+
+
+Q ss_pred             CCcEEEEEEEEEcCCCcEEEEEEEEecccCCccccc-------------ccCCeEEeC
+Q 5GNIA_5GNIB     350 DQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSE-------------STKSELVTV  394 (394)
+Q Consensus       350 ~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~-------------~s~~~~~~~  394 (394)
+                      ..+...|.|.....+|.|.|+|.+.|..|..+.++.             ...+..|..
+T Consensus        74 ~~~~~~L~I~~~~~~D~G~YtC~a~N~~g~~~~~~~~~~~~~~~~~~~~~p~~~~v~~  131 (222)
+T 1A7OH_1A7OL      74 SKSQVFLKMNSLHTDDTARYYCARERDYRLDYWGQGTTVTVSSDIVLTQSPASLSASV  131 (222)
+Confidence            357889999999999999999999999874221111             111111100
+
+
+No 27
+>1A7RH_1A7RL
+Probab=97.09  E-value=3.3e-09  Score=74.51  Aligned_cols=202  Identities=11%  Similarity=0.066  Sum_probs=108.5  Template_Neff=6.716
+
+Q ss_pred             EEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCC-CCeEEEEEECCEEcc----------------cCCchhccCCc--
+Q 5GNIA_5GNIB      92 QLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-APIHFTIEKLELNEK----------------MVKLKREKNSR--  152 (394)
+Q Consensus        92 ~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~-~~~~~~w~~~~~~~~----------------~~~~~~~~~~~--  152 (394)
+                      .+.       .-.+.+..|.+|+.|+|.|.+.+.+ +++.+.|||++....                .....+.....  
+T Consensus         1 ~~~-------~~~~~~~~v~~G~~v~l~C~vsGtp~~~~~V~W~kd~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   73 (223)
+T 1A7RH_1A7RL       1 QVQ-------LQESGPGLVAPSQSLSITCTVSGFSLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDN   73 (223)
+Confidence            000       0123456789999999999999865 279999999987311                00011122222  
+
+
+Q ss_pred             CCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEE-EEEEEE-ECCCEEEcCCCCEEEEEEEeCCcC
+Q 5GNIA_5GNIB     153 DQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTI-NSVDMK-SLPDWTVQNGKQLTLQCFADVSTT  230 (394)
+Q Consensus       153 ~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~-~~~~l~-~~p~~~v~~G~~v~l~C~~~~~~~  230 (394)
+                      ..+...|.|.....+|.|.|+|++.|..|..+ +|..+   .|+   + ..+.|+ -..+..|.+|+.++|.|.+..   
+T Consensus        74 ~~~~~~L~I~~~~~~D~G~YtC~a~N~~g~~~-~~~~~---~~~---~~~~~~~~~~p~~~~v~~G~~~~l~C~vsg---  143 (223)
+T 1A7RH_1A7RL      74 SKSQVFLKMNSLHTDDTARYYCARERDYRLDY-WGQGT---TLT---VSSDIVLTQSPASLSASVGETVTITCRASG---  143 (223)
+Confidence            46889999999999999999999999987411 11100   000   0 001112 234567899999999999984   
+
+
+Q ss_pred             CCccceEEEEEECCeEEEEEEcCCCcEEEEECCccChhCEEEEEEEEECCCcEEeeEEEEEEecCCCCeEEcCCccccCC
+Q 5GNIA_5GNIB     231 SVKPQHQMLFYKDDVLFYQISSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQG  310 (394)
+Q Consensus       231 ~~~~~~~~~w~k~~~~~~~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~~~p~~~~~~~~v~~g  310 (394)
+                        .+...+.|||++..+....-.....     .......|.|.-...       .....|.+.            .+...
+T Consensus       144 --~~~~~v~W~k~~~~~~~~~~~~~~~-----~~~~~~~~r~~~~~~-------~~~~~L~I~------------~~~~~  197 (223)
+T 1A7RH_1A7RL     144 --NIHNYLAWYQQKQGKSPQLLVYYTT-----TLADGVPSRFSGSGS-------GTQYSLKIN------------SLQPD  197 (223)
+Confidence              3678999999998654321000000     011122233322111       112233332            22334
+
+
+Q ss_pred             CEEEEEEEeCCCCCCeEEEEEECCEEcccccceEEcCCCCCcEEEEEEE
+Q 5GNIA_5GNIB     311 GIVRVQCSVPEEKAPIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFP  359 (394)
+Q Consensus       311 ~~vtl~C~~~~~~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~  359 (394)
+                      |.=..+|.+.....     |......                  .+.+.
+T Consensus       198 D~G~Y~C~a~n~~~-----~~~~~~~------------------~~~~~  223 (223)
+T 1A7RH_1A7RL     198 DFGSYYCQHFWSTP-----RTFGGGT------------------KLEIK  223 (223)
+Confidence            55567777754221     1100000                  00000
+
+
+No 28
+>1A7OH_1A7OL
+Probab=97.02  E-value=4.6e-09  Score=73.58  Aligned_cols=201  Identities=11%  Similarity=0.079  Sum_probs=108.1  Template_Neff=6.836
+
+Q ss_pred             EEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCC-CCeEEEEEECCEEcc----------------cCCchhccCCc--
+Q 5GNIA_5GNIB      92 QLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-APIHFTIEKLELNEK----------------MVKLKREKNSR--  152 (394)
+Q Consensus        92 ~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~-~~~~~~w~~~~~~~~----------------~~~~~~~~~~~--  152 (394)
+                      .+.       .-.+.+..|.+|+.++|.|.+.+.+ +++...|||++....                .....+.....  
+T Consensus         1 ~~~-------~~~~~~~~V~~G~~~~leC~vsG~~~~~~~V~Wfk~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~is~~~   73 (222)
+T 1A7OH_1A7OL       1 QVQ-------LQESGPGLVAPSQSLSITCTVSGFSLTGYGVNWVRQPPGKGLEWLGMIWGDGNTDYNSALKSRLSISKDN   73 (222)
+Confidence            000       1124556789999999999999864 379999999998521                00011112222  
+
+
+Q ss_pred             CCceEEEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEE-EEEEEE-ECCCEEEcCCCCEEEEEEEeCCcC
+Q 5GNIA_5GNIB     153 DQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTI-NSVDMK-SLPDWTVQNGKQLTLQCFADVSTT  230 (394)
+Q Consensus       153 ~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~-~~~~l~-~~p~~~v~~G~~v~l~C~~~~~~~  230 (394)
+                      ..+...|.|.....++.|.|+|.+.|..|..+.++..    .|+   + ..+.++ -..+..|.+|+.++|.|.+.+   
+T Consensus        74 ~~~~~~L~I~~~~~~D~G~YtC~a~N~~g~~~~~~~~----~~~---~~~~~~~~~~p~~~~v~~G~~~~~~C~vsg---  143 (222)
+T 1A7OH_1A7OL      74 SKSQVFLKMNSLHTDDTARYYCARERDYRLDYWGQGT----TVT---VSSDIVLTQSPASLSASVGETVTITCRASG---  143 (222)
+Confidence            3688999999999999999999999998742211111    000   0 001111 123567899999999999984   
+
+
+Q ss_pred             CCccceEEEEEECCeEEEEEEcCCCcEEEEECCccChhCEEEEEEEEECCCcEEeeEEEEEEecCCCCeEEcCCccccCC
+Q 5GNIA_5GNIB     231 SVKPQHQMLFYKDDVLFYQISSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQG  310 (394)
+Q Consensus       231 ~~~~~~~~~w~k~~~~~~~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~~~p~~~~~~~~v~~g  310 (394)
+                        .+...+.|||++..+....-.....     .......+.|.-...       .....|.+.            .+...
+T Consensus       144 --~p~~~v~W~k~~~~~~~~~~~~~~~-----~~~~~~~~r~~~~~~-------~~~~~L~I~------------~~~~~  197 (222)
+T 1A7OH_1A7OL     144 --NIHNYLAWYQQKQGKSPQLLVYYTT-----TLADGVPSRFSGSGS-------GTQYSLKIN------------SLQPD  197 (222)
+Confidence              4678999999997654321100000     011122233322211       122233332            22334
+
+
+Q ss_pred             CEEEEEEEeCCCCCCeEEEEEECCEEcccccceEEcCCCCCcEEEEEEE
+Q 5GNIA_5GNIB     311 GIVRVQCSVPEEKAPIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFP  359 (394)
+Q Consensus       311 ~~vtl~C~~~~~~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~  359 (394)
+                      |.=..+|.+.......                        .....|.+.
+T Consensus       198 D~G~Y~c~a~n~~~~~------------------------~~~~~~~~~  222 (222)
+T 1A7OH_1A7OL     198 DFGSYYCQHFWSTPTF------------------------GGGTKLEIK  222 (222)
+Confidence            4455666664321100                        000011000
+
+
+No 29
+>1A1MA_1A1MB
+Probab=96.99  E-value=5.3e-09  Score=77.37  Aligned_cols=268  Identities=11%  Similarity=0.015  Sum_probs=98.9  Template_Neff=4.727
+
+Q ss_pred             CCeEEEEc--CCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEEEEEeccCCeEEEEECCCcCccCEEEEEEEEEC
+Q 5GNIA_5GNIB       5 NSVDMKSL--PDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLFYQISSMKSTESYFIPEVRIYDSGTYKCTVIVN   82 (394)
+Q Consensus         5 ~~~~l~~~--p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~~~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~   82 (394)
+                      ....|+.-  .-.....|+.--|.-               =|-|+.......                            
+T Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~---------------~~~~~~~~~~~~----------------------------   37 (377)
+T 1A1MA_1A1MB       1 GSHSMRYFYTAMSRPGRGEPRFIAV---------------GYVDDTQFVRFD----------------------------   37 (377)
+Confidence            00000000  000000111000000               000000000000                            
+
+
+Q ss_pred             CCceecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCCCCeEEEEEECCEEcccCCchhccCCcCCceEEEEEE
+Q 5GNIA_5GNIB      83 NKEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFP  162 (394)
+Q Consensus        83 ~~~~~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~  162 (394)
+                           ++...-..  .|.+-..-....-..|...++.=...   +    .+.+.-.                   +|...
+T Consensus        38 -----~~~~~~~~--~~~~~~~~~~~~~~~~~~~~~~~~~~---~----~~~~~l~-------------------~~~~~   84 (377)
+T 1A1MA_1A1MB      38 -----SDAASPRT--EPRPPWIEQEGPEYWDRNTQIFKTNT---Q----TYRENLR-------------------IALRY   84 (377)
+Confidence                 00000000  00000000000001111111100000   0    0000000                   00000
+
+
+Q ss_pred             EcC-----CCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEEEcCCCCEEEEEEEeCCcCCCccceE
+Q 5GNIA_5GNIB     163 VEE-----QDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSVKPQHQ  237 (394)
+Q Consensus       163 ~~~-----~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~  237 (394)
+                      +..     ..-.+.|.|.+.-..+                               |     |+..-...     .++..-
+T Consensus        85 ~n~~~~~~~~~~~~~~c~v~~~~~-------------------------------~-----~~~~~~~~-----~~g~~~  123 (377)
+T 1A1MA_1A1MB      85 YNQSEAGSHIIQRMYGCDLGPDGR-------------------------------L-----LRGHDQSA-----YDGKDY  123 (377)
+Confidence            000     0011345554433221                               0     00000000     001111
+
+
+Q ss_pred             EEEEECCeEEEEEEcC-----CCcEEEEECCccChhCEEEEEEEEECCCcEEeeEEEEEEecCCCCeEEcCCccccCCCE
+Q 5GNIA_5GNIB     238 MLFYKDDVLFYQISSM-----KSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGI  312 (394)
+Q Consensus       238 ~~w~k~~~~~~~~~~~-----~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~~~p~~~~~~~~v~~g~~  312 (394)
+                      ..|-+++..+......     .....+.+ .....|.|.|.|.+.+..++. +....+.|..+|.+.....+   ..|+.
+T Consensus       124 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~e~~c~~~~~~~~~-~~~~~l~~~~pp~~~~~~~p---~sg~~  198 (377)
+T 1A1MA_1A1MB     124 IALNEDLSSWTAADTAAQITQRKWEAARV-AEQLRAYLEGLCVEWLRRYLE-NGKETLQRADPPKTHVTHHP---VSDHE  198 (377)
+Confidence            2233333322211100     01122333 345689999999999988654 56677778777766544443   46999
+
+
+Q ss_pred             EEEEEEeCCC-CCCeEEEEEECCEEcccccceE-EcCCCCCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccc----
+Q 5GNIA_5GNIB     313 VRVQCSVPEE-KAPIHFTIEKLELNEKMVKLKR-EKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSES----  386 (394)
+Q Consensus       313 vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~~~~-~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~----  386 (394)
+                      ++|.|.+.|. .++..+.|+|++..+....... ......+....+.++....++.|.|+|++.|..|...-.-.|    
+T Consensus       199 a~l~C~~~G~~~p~i~VtW~kdg~~i~~~~~~~~t~~~~~gt~~~~a~~~v~~~d~~~ytc~v~~~~~~~~~~~~~~~~~  278 (377)
+T 1A1MA_1A1MB     199 ATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWEPHH  278 (377)
+Confidence            9999999984 4678999999999995321111 111122334455556577788999999999987641100000    
+
+
+Q ss_pred             ---------cCCeEEeC
+Q 5GNIA_5GNIB     387 ---------TKSELVTV  394 (394)
+Q Consensus       387 ---------s~~~~~~~  394 (394)
+                               ..+..|.+
+T Consensus       279 ~~~~p~i~~~~~~~v~~  295 (377)
+T 1A1MA_1A1MB     279 IQRTPKIQVYSRHPAEN  295 (377)
+Confidence                     00000000
+
+
+No 30
+>1A7NH_1A7NL
+Probab=96.96  E-value=6.2e-09  Score=72.83  Aligned_cols=92  Identities=15%  Similarity=0.178  Sum_probs=59.2  Template_Neff=6.810
+
+Q ss_pred             CccCC------------------CeEE-EEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEEE----------
+Q 5GNIA_5GNIB       1 SFTIN------------------SVDM-KSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLFY----------   51 (394)
+Q Consensus         1 ~~~~~------------------~~~l-~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~~----------   51 (394)
+                      ...+.                  .+.+ ....+..|.+|+.++|.|...+.    +...+.|||++..+.          
+T Consensus        94 tC~a~N~~g~~~~~~~~~~~~~~~~~~~~~p~~~~v~~G~~~~l~C~vsg~----p~~~v~W~k~~~~~~~~~~~~~~~~  169 (223)
+T 1A7NH_1A7NL      94 YCARERDYRLDYWGQGTTVTVSSDIVLTQSPASLSASVGETVTITCRASGN----IHNYLAWYQQKQGKSPQLLVYYTTT  169 (223)
+Confidence            00000                  0111 12345679999999999999853    568999999997421          
+
+
+Q ss_pred             ---------EEeccCCeEEEEECCCcCccCEEEEEEEEECCCceecceEEEEEC
+Q 5GNIA_5GNIB      52 ---------QISSMKSTESYFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVE   96 (394)
+Q Consensus        52 ---------~~~~~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~   96 (394)
+                               ..........|.|..+...|.|.|.|.+.+...........|.+.
+T Consensus       170 ~~~~~~~r~~~~~~~~~~~L~I~~~~~~D~G~Y~C~a~n~~~~~~~~~~~~~~~  223 (223)
+T 1A7NH_1A7NL     170 LADGVPSRFSGSGSGTQYSLKINSLQPDDFGSYYCQHFWSTPRTFGGGTKLEIK  223 (223)
+Confidence                     111233568899999999999999999998763333333333221
+
+
+No 31
+>1A6WH_1A6WL
+Probab=96.86  E-value=9.8e-09  Score=72.35  Aligned_cols=96  Identities=16%  Similarity=0.155  Sum_probs=67.4  Template_Neff=8.865
+
+Q ss_pred             CccCCCeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEE------E-------------EEeccCCeEE
+Q 5GNIA_5GNIB       1 SFTINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLF------Y-------------QISSMKSTES   61 (394)
+Q Consensus         1 ~~~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~------~-------------~~~~~~~~~~   61 (394)
+                      ..+++...|+..+...|.+|+.++|.|...+.. ..+...+.|+|++...      .             ..........
+T Consensus       115 ~~~~~~~~~~~~~~~~v~~G~~v~l~C~v~~~~-~~~~~~v~W~~~~~~~~~~~~~~~~~~~~~~~~~r~~~~~~~~~~~  193 (229)
+T 1A6WH_1A6WL     115 TVTVSSAVVTQESALTTSPGETVTLTCRSSTGA-VTTSNYANWVQEKPDHLFTGLIGGTNNRAPGVPARFSGSLIGNKAA  193 (229)
+Confidence            012333446667888999999999999998642 2467899999998853      0             0112234678
+
+
+Q ss_pred             EEECCCcCccCEEEEEEEEECCCceecceEEEEECC
+Q 5GNIA_5GNIB      62 YFIPEVRIYDSGTYKCTVIVNNKEKTTAEYQLLVEG   97 (394)
+Q Consensus        62 l~i~~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~   97 (394)
+                      |.|..+...|+|.|.|.+.+...........|+|..
+T Consensus       194 L~I~~~~~~D~G~Y~C~~~~~~~~~~~~~~~~~~~~  229 (229)
+T 1A6WH_1A6WL     194 LTITGAQTEDEAIYFCALWYSNHWVFGGGTKLTVLE  229 (229)
+Confidence            999999999999999999987644445555554421
+
+
+No 32
+>1A1NB_1A1NA
+Probab=96.82  E-value=1.1e-08  Score=74.95  Aligned_cols=250  Identities=11%  Similarity=0.033  Sum_probs=82.3  Template_Neff=4.544
+
+Q ss_pred             EEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCE-----EEEEEeccCCeEEEEECCC-----cC-ccCEEEEE
+Q 5GNIA_5GNIB       9 MKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDV-----LFYQISSMKSTESYFIPEV-----RI-YDSGTYKC   77 (394)
+Q Consensus         9 l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~-----~~~~~~~~~~~~~l~i~~~-----~~-~d~G~Y~C   77 (394)
+                      |.-.|...+.....  ..  .      .....|.-+-.+.     .+.-.     .+.-.|...     .. .|.+.|.-
+T Consensus         1 ~~~~p~i~~~~~~~--v~--~------g~~~~~~c~vsg~~~p~~~v~W~-----K~g~~i~~~~~~~~~~~~~~~~~~L   65 (375)
+T 1A1NB_1A1NA       1 IQRTPKIQVYSRHP--AE--N------GKSNFLNCYVSGFHPSDIEVDLL-----KNGERIEKVEHSDLSFSKDWSFYLL   65 (375)
+Confidence            00001111110000  00  0      0011111111110     11110     011111111     11 12222222
+
+
+Q ss_pred             EEEECCCceecceEEEEECCCCCCEE------------------------------ecCcceEcCCCc------------
+Q 5GNIA_5GNIB      78 TVIVNNKEKTTAEYQLLVEGVPSPRV------------------------------TLDKKEAIQGGI------------  115 (394)
+Q Consensus        78 ~~~~~~~~~~s~~~~l~v~~~~~~~~------------------------------~~~~~~v~~g~~------------  115 (394)
+                      ..... .....+.....|.......-                              ......|..-+.            
+T Consensus        66 ~i~~~-~~~d~geY~c~~~n~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  144 (375)
+T 1A1NB_1A1NA      66 YYTEF-TPTEKDEYACRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRT  144 (375)
+Confidence            11111 11112222222211000000                              000000000000            
+
+
+Q ss_pred             ---------------------------------------------------EEEEEEcCCCCCCeEEEEE--ECCEEccc
+Q 5GNIA_5GNIB     116 ---------------------------------------------------VRVQCSVPEEKAPIHFTIE--KLELNEKM  142 (394)
+Q Consensus       116 ---------------------------------------------------vtl~C~~~~~~~~~~~~w~--~~~~~~~~  142 (394)
+                                                                         ..+.|.+.+...-....|+  .+++....
+T Consensus       145 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~~~~~~~~~~~  224 (375)
+T 1A1NB_1A1NA     145 EPRPPWIEQEGPEYWDRNTQIFKTNTQTYRESLRNLRGYYNQSEAGSHIIQRMYGCDLGPDGRLLRGHDQSAYDGKDYIA  224 (375)
+Confidence                                                               0112222111111111111  00000000
+
+
+Q ss_pred             CCchhccCCcCCceE-------EEEEEEcCCCCeEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEEEECCCEE---
+Q 5GNIA_5GNIB     143 VKLKREKNSRDQNFV-------ILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDMKSLPDWT---  212 (394)
+Q Consensus       143 ~~~~~~~~~~~~~~~-------~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l~~~p~~~---  212 (394)
+                      ..............+       .-..-.....+.+.|.|.+.+..+.    ...+.          .+.....|...   
+T Consensus       225 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~----~~~~~----------~l~v~~pP~~~~~~  290 (375)
+T 1A1NB_1A1NA     225 LNEDLSSWTAADTAAQITQRKWEAARVAEQLRAYLEGLCVEWLRRYL----ENGKE----------TLQRADPPKTHVTH  290 (375)
+Confidence            000000000000000       0000112233557899999998763    11110          11122222222   
+
+
+Q ss_pred             -EcCCCCEEEEEEEeCCcCCCccceEEEEEECCeEEEEEEc--------CCCcEEEEECCccChhCEEEEEEEEECCCcE
+Q 5GNIA_5GNIB     213 -VQNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVLFYQISS--------MKSTESYFIPEVRIYDSGTYKCTVIVNNKEK  283 (394)
+Q Consensus       213 -v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~~~--------~~~~~~l~i~~~~~~d~G~Y~C~~~~~~~~~  283 (394)
+                       ...|+.++|+|.+.+..   .+...+.|+||+..+.....        ......+.+..+...|.|.|+|.+.+.... 
+T Consensus       291 ~~~~g~~~~L~C~~~G~~---p~~~~vtW~kdg~~i~~~~~~~~~~~~~~~t~~~~~~~~v~~~d~g~YtC~~~~~~~~-  366 (375)
+T 1A1NB_1A1NA     291 HPVSDHEATLRCWALGFY---PAEITLTWQRDGEDQTQDTELVETRPAGDRTFQKWAAVVVPSGEEQRYTCHVQHEGLP-  366 (375)
+Confidence             23699999999998532   25579999999998876521        112234556678889999999999887543 
+
+
+Q ss_pred             EeeEEEEEEec
+Q 5GNIA_5GNIB     284 TTAEYQLLVEG  294 (394)
+Q Consensus       284 ~s~~~~l~v~~  294 (394)
+                        .++.|.-..
+T Consensus       367 --~~~~~~~~~  375 (375)
+T 1A1NB_1A1NA     367 --KPLTLRWEP  375 (375)
+Confidence              222221100
+
+
+No 33
+>1A7QL_1A7QH
+Probab=96.45  E-value=5.1e-08  Score=67.13  Aligned_cols=98  Identities=16%  Similarity=0.128  Sum_probs=58.4  Template_Neff=7.309
+
+Q ss_pred             EEEEecCCCCeEEcCCccccCCCEEEEEEEeCCCC-------------CCeEEEEEECCEEcccccceEEcCCCCCcEEE
+Q 5GNIA_5GNIB     289 QLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-------------APIHFTIEKLELNEKMVKLKREKNSRDQNFVI  355 (394)
+Q Consensus       289 ~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~~-------------~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~  355 (394)
+                      .|.+      +-.+....|.+|+.++|.|.+.+.+             ++..+.|++++..+  .+..+...........
+T Consensus         1 ~~~~------~~~~~~~~v~~g~~~~~~c~vs~~~~~~v~w~~~~~~~~~~~~~w~k~~~~i--~~~~k~~i~~~~~~~~   72 (221)
+T 1A7QL_1A7QH       1 DIVL------TQSPASLSASVGETVTITCRAGGNTHNYLAWYQQKQGKSPQLLVYYTTTLAA--GVPSRFSGSGSGTQYS   72 (221)
+Confidence            0001      1124455788999999999998732             22344555555566  3455666777788899
+
+
+Q ss_pred             EEEEEEcCCCcEEEEEEEEecc----cC-------------CcccccccCCeEEeC
+Q 5GNIA_5GNIB     356 LEFPVEEQDRVLSFRCQARIIS----GI-------------HMQTSESTKSELVTV  394 (394)
+Q Consensus       356 l~~~~~~~~~~g~y~C~~~~~~----~~-------------~~~~s~~s~~~~~~~  394 (394)
+                      |.|.....+|.|.|+|.+.|..    |.             .+..=...++.+++-
+T Consensus        73 L~I~~~~~~D~G~Ytc~a~n~~~~~~~~~~~~~~~~~~~~~~~~~v~~g~~~~l~C  128 (221)
+T 1A7QL_1A7QH      73 LKINSLQPDDFGSYYCQHFWSTPRSFGGGTKLEIQVQLQESGPGLVAPSQSLSITC  128 (221)
+Confidence            9999999999999999999961    10             001111111111000
+
+
+No 34
+>1A1MA_1A1MB
+Probab=96.44  E-value=5.3e-08  Score=70.82  Aligned_cols=94  Identities=13%  Similarity=0.154  Sum_probs=66.4  Template_Neff=4.727
+
+Q ss_pred             CccC--------CCeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEEEEEec-------cCCeEEEEEC
+Q 5GNIA_5GNIB       1 SFTI--------NSVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLFYQISS-------MKSTESYFIP   65 (394)
+Q Consensus         1 ~~~~--------~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~~~~~~-------~~~~~~l~i~   65 (394)
+                      ++++        +++.+.+.+...|..|+.++|.|.+.+..  .+...+.|+||+..+.....       ......|.|.
+T Consensus       269 ~~~~~~~~~~~~~~p~i~~~~~~~v~~g~~~~l~c~v~g~~--~~~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~  346 (377)
+T 1A1MA_1A1MB     269 PLTLRWEPHHIQRTPKIQVYSRHPAENGKSNFLNCYVSGFH--PSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYT  346 (377)
+Confidence            0111        25778888999999999999999998631  25689999999999987522       1223578999
+
+
+Q ss_pred             CCcCccCEEEEEEEEECCCceecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCCCCeEEEEEECC
+Q 5GNIA_5GNIB      66 EVRIYDSGTYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKLE  137 (394)
+Q Consensus        66 ~~~~~d~G~Y~C~~~~~~~~~~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~~  137 (394)
+                      .+...|+|.|.|.+.+..+..   .+.+...                                      |+-
+T Consensus       347 ~~~~~d~g~Ytc~v~n~~g~~---~~~~~~~--------------------------------------~~~  377 (377)
+T 1A1MA_1A1MB     347 EFTPTEKDEYACRVNHVTLSQ---PKIVKWD--------------------------------------RDM  377 (377)
+Confidence            999999999999999887642   2221110                                      000
+
+
+No 35
+>no_name_0
+Probab=96.42  E-value=5.6e-08  Score=67.27  Aligned_cols=196  Identities=13%  Similarity=-0.012  Sum_probs=96.3  Template_Neff=10.861
+
+Q ss_pred             EEEEcC-CcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEE-----EE--------------------EeccCCeEE
+Q 5GNIA_5GNIB       8 DMKSLP-DWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLF-----YQ--------------------ISSMKSTES   61 (394)
+Q Consensus         8 ~l~~~p-~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~-----~~--------------------~~~~~~~~~   61 (394)
+                      .|+..| ...+..|++++|.|....     ....+.|||...--     ..                    .........
+T Consensus         1 v~tQ~p~~~~~~~G~sv~l~C~~s~-----~~~~v~WyrQ~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   75 (238)
+T no_name_0         1 AVTQSPRNKVAVTGGKVTLSCQQTN-----NHNNMYWYRQDTGHGLRLIHYSYGAGSTEKGDIPDGYKASRPSQEQFSLI   75 (238)
+Confidence            244555 467899999999999975     45788898753210     00                    000000001
+
+
+Q ss_pred             EEECCCcCccCEEEEEEEEECC---------CceecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCC-CCCCeEE
+Q 5GNIA_5GNIB      62 YFIPEVRIYDSGTYKCTVIVNN---------KEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPE-EKAPIHF  131 (394)
+Q Consensus        62 l~i~~~~~~d~G~Y~C~~~~~~---------~~~~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~-~~~~~~~  131 (394)
+                      +.+......+...+.|......         ...............+.+.+.........+..++|.|.+.+ .+..+.+
+T Consensus        76 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~C~~~~FyP~~i~V  155 (238)
+T no_name_0        76 LELATPSQTSVYFCASGGGRGSYAEQFFGPGTRLTVLEDLRQVTPPKVSLFEPSKAEIANKQKATLVCLARGFFPDHVEL  155 (238)
+Confidence            1111111111111111111100         00111122233334455556667777888899999999876 5677899
+
+
+Q ss_pred             EEEECCEEcccCCch-----hccCCcCCceEEEEEEEcCCCC-eEEEEEEEEEEccCCCCCCcccccEEcCCeEEEEEEE
+Q 5GNIA_5GNIB     132 TIEKLELNEKMVKLK-----REKNSRDQNFVILEFPVEEQDR-VLSFRCQARIISGIHMQTSESTKSELVTSFTINSVDM  205 (394)
+Q Consensus       132 ~w~~~~~~~~~~~~~-----~~~~~~~~~~~~l~~~~~~~~~-~g~y~C~~~~~~~~~~~~s~~s~~~~~~~~~~~~~~l  205 (394)
+                      .|.+++..+...-..     ...-..+...+.|.+....-.+ ...|+|++....+.                  +.+.+
+T Consensus       156 ~W~~nG~~vt~gv~~~~~~~~~~D~tY~~sS~L~v~~~ew~~~~~~ytC~V~H~sl~------------------~~~~~  217 (238)
+T no_name_0       156 SWWVNGKEVHSGVSTDPQAYKESNYSYCLSSRLRVSATFWHNPRNHFRCQVQFHGLS------------------EEDKW  217 (238)
+Confidence            999999987432111     1122345666677777665433 44799999987653                  11222
+
+
+Q ss_pred             EECCCEEEcCCCCEEEEEEEeCCcCCCccceEEEEEECCeEEEEEEcCCCcEEEEECCccChh
+Q 5GNIA_5GNIB     206 KSLPDWTVQNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVLFYQISSMKSTESYFIPEVRIYD  268 (394)
+Q Consensus       206 ~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~~~~~~~~~l~i~~~~~~d  268 (394)
+                      ...+..      +++..+.......                                    +|
+T Consensus       218 ~~~~~~------~~~~~~~~~~~~~------------------------------------~~  238 (238)
+T no_name_0       218 PEGSPK------PVTQNISAEAWGR------------------------------------AD  238 (238)
+Confidence            222211      1111111110000                                    00
+
+
+No 36
+>1A6UL_1A6UH
+Probab=96.38  E-value=6.4e-08  Score=66.93  Aligned_cols=98  Identities=9%  Similarity=-0.030  Sum_probs=62.9  Template_Neff=7.694
+
+Q ss_pred             CCeEEcCCccccCCCEEEEEEEeCCC--CCCeEEEEEECCEEc------------ccccceEEcCCCCCcEEEEEEEEEc
+Q 5GNIA_5GNIB     297 SPRVTLDKKEAIQGGIVRVQCSVPEE--KAPIHFTIEKLELNE------------KMVKLKREKNSRDQNFVILEFPVEE  362 (394)
+Q Consensus       297 ~p~~~~~~~~v~~g~~vtl~C~~~~~--~~~~~~~w~~~~~~~------------~~~~~~~~~~~~~~~~~~l~~~~~~  362 (394)
+                      ...-.+.+..|.+|+.++|.|.+.+.  .+.....|+|++...            ......+..+....+...|.|....
+T Consensus         1 ~~~~~~~~~~v~eG~~a~f~C~vs~~~~~p~~~v~W~k~g~~~~~~~~~~~~~~~~~~~s~k~~~~~~g~~~~L~I~~~~   80 (228)
+T 1A6UL_1A6UH       1 AVVTQESALTTSPGETVTLTCRSSTGAVTTSNYANWVQEKPDHLFTGLIGGTNNRAPGVPARFSGSLIGNKAALTITGAQ   80 (228)
+Confidence            00112445678899999999999875  145689999999885            0123456667778888999999999
+
+
+Q ss_pred             CCCcEEEEEEEEeccc----C--------------CcccccccCCeEEeC
+Q 5GNIA_5GNIB     363 QDRVLSFRCQARIISG----I--------------HMQTSESTKSELVTV  394 (394)
+Q Consensus       363 ~~~~g~y~C~~~~~~~----~--------------~~~~s~~s~~~~~~~  394 (394)
+                      ..|.|.|+|.+.|...    .              -+..=...++.+++-
+T Consensus        81 ~eD~G~YtC~a~n~~~~~~~~~~~~~~~~~~~~~~~~~~v~~G~~v~l~C  130 (228)
+T 1A6UL_1A6UH      81 TEDEAIYFCALWYSNHWVFGGGTKLTVLQVQLQQPGAELVKPGASVKLSC  130 (228)
+Confidence            9999999999999720    0              000001111110000
+
+
+No 37
+>1A1OB_1A1OA
+Probab=96.38  E-value=6.5e-08  Score=70.01  Aligned_cols=184  Identities=11%  Similarity=0.095  Sum_probs=87.7  Template_Neff=4.570
+
+Q ss_pred             EEEEEEEEECCCEEEcCCCCEEEEEEEeCCcCCCccceEEEEEECCeEEEEEEc-------CCCcEEEEECCccChhCEE
+Q 5GNIA_5GNIB     199 TINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVLFYQISS-------MKSTESYFIPEVRIYDSGT  271 (394)
+Q Consensus       199 ~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~~~~~-------~~~~~~l~i~~~~~~d~G~  271 (394)
+                      --..+.+.+.+...+..|+.+.|.|.+.+.   ..+...+.|+|++..+.....       +.....|.|..+...|.|.
+T Consensus         1 ~~~~p~i~~~~~~~v~~G~~~~l~c~vsg~---~~p~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~g~   77 (375)
+T 1A1OB_1A1OA       1 IQRTPKIQVYSRHPAENGKSNFLNCYVSGF---HPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDE   77 (375)
+Confidence            001345667778889999999999999852   125689999999999877532       2234578999999999999
+
+
+Q ss_pred             EEEEEEECCCcEEe--------------------------eEEEEEEecCC------------CCeEEcCC---------
+Q 5GNIA_5GNIB     272 YKCTVIVNNKEKTT--------------------------AEYQLLVEGVP------------SPRVTLDK---------  304 (394)
+Q Consensus       272 Y~C~~~~~~~~~~s--------------------------~~~~l~v~~~~------------~p~~~~~~---------  304 (394)
+                      |.|.+.+..++..-                          .+-.+.|....            .|...+.+         
+T Consensus        78 Y~c~~~n~~gs~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  157 (375)
+T 1A1OB_1A1OA      78 YACRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAVGYVDDTQFVRFDSDAASPRTEPRPPWIEQEGPE  157 (375)
+Confidence            99999987765320                          00000000000            00000000         
+
+
+Q ss_pred             ---------------------------ccccCCC---EEEEEEEeCCCCCCeEEEEEE------------CCEEcccccc
+Q 5GNIA_5GNIB     305 ---------------------------KEAIQGG---IVRVQCSVPEEKAPIHFTIEK------------LELNEKMVKL  342 (394)
+Q Consensus       305 ---------------------------~~v~~g~---~vtl~C~~~~~~~~~~~~w~~------------~~~~~~~~~~  342 (394)
+                                                 .....|.   ...+.|.+.....-.+..|+.            +......  .
+T Consensus       158 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~c~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--~  235 (375)
+T 1A1OB_1A1OA     158 YWDRNTQIFKTNTQTYRENLRIALRYYNQSEAGSHIIQRMYGCDLGPDGRLLRGHDQSAYDGKDYIALNEDLSSWTA--A  235 (375)
+Confidence                                       0000000   123445554332222222222            2222110  0
+
+
+Q ss_pred             eEEcCCCCCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccccCCeEEeC
+Q 5GNIA_5GNIB     343 KREKNSRDQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTV  394 (394)
+Q Consensus       343 ~~~~~~~~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~  394 (394)
+                      .............+.+ .....+.+.|.|.+.+..+.  .....    +++|
+T Consensus       236 ~~~~~~~~~~~~~~~~-~~~~~~~~~~~c~~~~~~~~--~~~~~----~l~v  280 (375)
+T 1A1OB_1A1OA     236 DTAAQITQRKWEAARV-AEQLRAYLEGLCVEWLRRYL--ENGKE----TLQR  280 (375)
+Confidence            0000000000011111 12223456789998887764  11110    0000
+
+
+No 38
+>1A6WH_1A6WL
+Probab=96.27  E-value=9.5e-08  Score=65.98  Aligned_cols=98  Identities=10%  Similarity=0.041  Sum_probs=58.4  Template_Neff=8.865
+
+Q ss_pred             EEEEecCCCCeEEcCCccccCCCEEEEEEEeCCC-CCCeEEEEEECCEEccccc-----------------ceEEcCCC-
+Q 5GNIA_5GNIB     289 QLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFTIEKLELNEKMVK-----------------LKREKNSR-  349 (394)
+Q Consensus       289 ~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~-----------------~~~~~~~~-  349 (394)
+                      .+.       .-.+.+..|.+|+.++|.|.+.+. .++..+.|++++.......                 ..+..... 
+T Consensus         1 ~~~-------~~~~~~~~v~~G~~~~L~C~vsg~~~~~~~V~W~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   73 (229)
+T 1A6WH_1A6WL       1 QVQ-------LQQPGAELVKPGASVKLSCKASGYTFTSYWMHWVKQRPGRGLEWIGRIDPNSGGTKYNEKFKSKATLTVD   73 (229)
+Confidence            000       112345678899999999999985 3568999999964321000                 01111222 
+
+
+Q ss_pred             -CCcEEEEEEEEEcCCCcEEEEEEEEecccCCcccccccCCeEEeC
+Q 5GNIA_5GNIB     350 -DQNFVILEFPVEEQDRVLSFRCQARIISGIHMQTSESTKSELVTV  394 (394)
+Q Consensus       350 -~~~~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~~s~~s~~~~~~~  394 (394)
+                       ..+...|.|......|.|.|+|.+.|..+. .-...|+..-+|+|
+T Consensus        74 ~~~~~~~L~I~~~~~~DsG~Y~C~a~n~~g~-~~~~~~~~~~~~~~  118 (229)
+T 1A6WH_1A6WL      74 KPSSTAYMQLSSLTSEDSAVYYCARYDYYGS-SYFDYWGQGTTVTV  118 (229)
+Confidence             456678899999999999999999998763 01111211111110
+
+
+No 39
+>no_name_0
+Probab=96.22  E-value=1.1e-07  Score=65.33  Aligned_cols=185  Identities=11%  Similarity=-0.004  Sum_probs=90.6  Template_Neff=10.861
+
+Q ss_pred             EEEECC-CEEEcCCCCEEEEEEEeCCcCCCccceEEEEEECCeEEE-------------------------EEEcCCCcE
+Q 5GNIA_5GNIB     204 DMKSLP-DWTVQNGKQLTLQCFADVSTTSVKPQHQMLFYKDDVLFY-------------------------QISSMKSTE  257 (394)
+Q Consensus       204 ~l~~~p-~~~v~~G~~v~l~C~~~~~~~~~~~~~~~~w~k~~~~~~-------------------------~~~~~~~~~  257 (394)
+                      .|+..| ...+..|++|+|.|.....      ...+.|||....-.                         .........
+T Consensus         1 v~tQ~p~~~~~~~G~sv~l~C~~s~~------~~~v~WyrQ~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   74 (238)
+T no_name_0         1 AVTQSPRNKVAVTGGKVTLSCQQTNN------HNNMYWYRQDTGHGLRLIHYSYGAGSTEKGDIPDGYKASRPSQEQFSL   74 (238)
+Confidence            123334 3568899999999999853      46788887532110                         000000001
+
+
+Q ss_pred             EEEECCccChhCEEEEEEEEECC---------CcEEeeEEEEEEecCCCCeEEcCCccccCCCEEEEEEEeCC-CCCCeE
+Q 5GNIA_5GNIB     258 SYFIPEVRIYDSGTYKCTVIVNN---------KEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPE-EKAPIH  327 (394)
+Q Consensus       258 ~l~i~~~~~~d~G~Y~C~~~~~~---------~~~~s~~~~l~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~-~~~~~~  327 (394)
+                      .+.+......+...+.|......         ...............+.+.+.........+..++|.|.+.+ .+..+.
+T Consensus        75 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~C~~~~FyP~~i~  154 (238)
+T no_name_0        75 ILELATPSQTSVYFCASGGGRGSYAEQFFGPGTRLTVLEDLRQVTPPKVSLFEPSKAEIANKQKATLVCLARGFFPDHVE  154 (238)
+Confidence            11111111111111111111100         00011112223334455556667777888899999999876 566789
+
+
+Q ss_pred             EEEEECCEEcccccceEEc-----CCCCCcEEEEEEEEEcCCC-cEEEEEEEEecccCCcccccccCCeE----EeC
+Q 5GNIA_5GNIB     328 FTIEKLELNEKMVKLKREK-----NSRDQNFVILEFPVEEQDR-VLSFRCQARIISGIHMQTSESTKSEL----VTV  394 (394)
+Q Consensus       328 ~~w~~~~~~~~~~~~~~~~-----~~~~~~~~~l~~~~~~~~~-~g~y~C~~~~~~~~~~~~s~~s~~~~----~~~  394 (394)
+                      +.|.+++..+...-.....     -..+...+.|.++...-.+ .-.|+|++.+........-.+..+..    |++
+T Consensus       155 V~W~~nG~~vt~gv~~~~~~~~~~D~tY~~sS~L~v~~~ew~~~~~~ytC~V~H~sl~~~~~~~~~~~~~~~~~~~~  231 (238)
+T no_name_0       155 LSWWVNGKEVHSGVSTDPQAYKESNYSYCLSSRLRVSATFWHNPRNHFRCQVQFHGLSEEDKWPEGSPKPVTQNISA  231 (238)
+Confidence            9999999987421111111     1234455566666554222 33799999987764222111111100    000
+
+
+No 40
+>1A1OB_1A1OA
+Probab=96.16  E-value=1.3e-07  Score=67.97  Aligned_cols=102  Identities=15%  Similarity=0.185  Sum_probs=63.4  Template_Neff=4.570
+
+Q ss_pred             EecCCCCeEEcCCccccCCCEEEEEEEeCCC-CCCeEEEEEECCEEcccccceEEcCCCCCcEEEEEEEEEcCCCcEEEE
+Q 5GNIA_5GNIB     292 VEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSFR  370 (394)
+Q Consensus       292 v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~  370 (394)
+                      +...|+ ........+..|..+.|.|.+.+. ++...+.|+|++..+..................|.+......+.|.|.
+T Consensus         1 ~~~~p~-i~~~~~~~v~~G~~~~l~c~vsg~~~p~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~g~Y~   79 (375)
+T 1A1OB_1A1OA       1 IQRTPK-IQVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEYA   79 (375)
+Confidence            011122 223455677899999999999985 467899999999999543323334444555678888888888999999
+
+
+Q ss_pred             EEEEecccCCccc-------------------ccccC--CeEEeC
+Q 5GNIA_5GNIB     371 CQARIISGIHMQT-------------------SESTK--SELVTV  394 (394)
+Q Consensus       371 C~~~~~~~~~~~~-------------------s~~s~--~~~~~~  394 (394)
+                      |++.|..+..+-.                   |.+..  +--+.|
+T Consensus        80 c~~~n~~gs~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  124 (375)
+T 1A1OB_1A1OA      80 CRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAV  124 (375)
+Confidence            9999988752100                   00000  000000
+
+
+No 41
+>1A1NB_1A1NA
+Probab=96.01  E-value=2.1e-07  Score=66.69  Aligned_cols=102  Identities=15%  Similarity=0.185  Sum_probs=63.0  Template_Neff=4.544
+
+Q ss_pred             EecCCCCeEEcCCccccCCCEEEEEEEeCCC-CCCeEEEEEECCEEcccccceEEcCCCCCcEEEEEEEEEcCCCcEEEE
+Q 5GNIA_5GNIB     292 VEGVPSPRVTLDKKEAIQGGIVRVQCSVPEE-KAPIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSFR  370 (394)
+Q Consensus       292 v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~-~~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y~  370 (394)
+                      +...|+ ........+..|..+.|.|.+.+. ++.....|+|++..+..................|.+......+.|.|.
+T Consensus         1 ~~~~p~-i~~~~~~~v~~g~~~~~~c~vsg~~~p~~~v~W~K~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~geY~   79 (375)
+T 1A1NB_1A1NA       1 IQRTPK-IQVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEYA   79 (375)
+Confidence            001111 223445667899999999999985 456899999999999543333334444555668888888888999999
+
+
+Q ss_pred             EEEEecccCCccc-------------------ccccC--CeEEeC
+Q 5GNIA_5GNIB     371 CQARIISGIHMQT-------------------SESTK--SELVTV  394 (394)
+Q Consensus       371 C~~~~~~~~~~~~-------------------s~~s~--~~~~~~  394 (394)
+                      |++.|..+...-.                   |.+..  +--+.|
+T Consensus        80 c~~~n~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  124 (375)
+T 1A1NB_1A1NA      80 CRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAV  124 (375)
+Confidence            9999988752100                   00000  000000
+
+
+No 42
+>1A9EB_1A9EA
+Probab=95.94  E-value=2.6e-07  Score=66.18  Aligned_cols=103  Identities=15%  Similarity=0.195  Sum_probs=63.8  Template_Neff=4.576
+
+Q ss_pred             EEecCCCCeEEcCCccccCCCEEEEEEEeCCCC-CCeEEEEEECCEEcccccceEEcCCCCCcEEEEEEEEEcCCCcEEE
+Q 5GNIA_5GNIB     291 LVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEK-APIHFTIEKLELNEKMVKLKREKNSRDQNFVILEFPVEEQDRVLSF  369 (394)
+Q Consensus       291 ~v~~~~~p~~~~~~~~v~~g~~vtl~C~~~~~~-~~~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~g~y  369 (394)
+                      .+...|+. .......+..|+.+.|.|.+.+.. +...+.|+|++..+...............+..|.+......+.|.|
+T Consensus         1 ~~~~~P~i-~~~~~~~~~~g~~~~~~c~v~g~~p~~~~v~W~k~g~~i~~~~~~~~~~~~~~~~~~L~i~~~~~~d~g~Y   79 (377)
+T 1A9EB_1A9EA       1 MIQRTPKI-QVYSRHPAENGKSNFLNCYVSGFHPSDIEVDLLKNGERIEKVEHSDLSFSKDWSFYLLYYTEFTPTEKDEY   79 (377)
+Confidence            01112222 234456678999999999999864 4689999999999954323333444555667788888888899999
+
+
+Q ss_pred             EEEEEecccCCccc-------------------ccccC--CeEEeC
+Q 5GNIA_5GNIB     370 RCQARIISGIHMQT-------------------SESTK--SELVTV  394 (394)
+Q Consensus       370 ~C~~~~~~~~~~~~-------------------s~~s~--~~~~~~  394 (394)
+                      .|++.|..+...-.                   |.+..  +--+.|
+T Consensus        80 ~c~~~n~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  125 (377)
+T 1A9EB_1A9EA      80 ACRVNHVTLSQPKIVKWDRDMGSHSMRYFYTAMSRPGRGEPRFIAV  125 (377)
+Confidence            99999988752100                   00000  000000
+
+
+No 43
+>no_name_0
+Probab=91.34  E-value=4.7e-05  Score=48.32  Aligned_cols=204  Identities=16%  Similarity=0.139  Sum_probs=84.3  Template_Neff=10.861
+
+Q ss_pred             EECCCCCCEEecCcceEcCCCcEEEEEEcCCCCCCeEEEEEECCEEcccC------------------CchhccCCcCCc
+Q 5GNIA_5GNIB      94 LVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKLELNEKMV------------------KLKREKNSRDQN  155 (394)
+Q Consensus        94 ~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~~~~~~~~------------------~~~~~~~~~~~~  155 (394)
+                      .|.      -......+.+|+.|+|.|......  ..+.|||........                  ............
+T Consensus         1 v~t------Q~p~~~~~~~G~sv~l~C~~s~~~--~~v~WyrQ~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   72 (238)
+T no_name_0         1 AVT------QSPRNKVAVTGGKVTLSCQQTNNH--NNMYWYRQDTGHGLRLIHYSYGAGSTEKGDIPDGYKASRPSQEQF   72 (238)
+Confidence            000      011234578899999999997643  466777643211000                  000000000000
+
+
+Q ss_pred             eEEEEEEEcCCCCeEEEEEEEEEEccCCCC---CCcccccEEcCCeEEEEEEEEECCCEEEcCCCCEEEEEEEeCCcCCC
+Q 5GNIA_5GNIB     156 FVILEFPVEEQDRVLSFRCQARIISGIHMQ---TSESTKSELVTSFTINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSV  232 (394)
+Q Consensus       156 ~~~l~~~~~~~~~~g~y~C~~~~~~~~~~~---~s~~s~~~~~~~~~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~  232 (394)
+                      ...+.+..........+.|........+..   .................+.....+......+..++|.|.+..-.   
+T Consensus        73 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~C~~~~Fy---  149 (238)
+T no_name_0        73 SLILELATPSQTSVYFCASGGGRGSYAEQFFGPGTRLTVLEDLRQVTPPKVSLFEPSKAEIANKQKATLVCLARGFF---  149 (238)
+Confidence            111111111111111111111111000000   00000000111112233445556666777889999999988643   
+
+
+Q ss_pred             ccceEEEEEECCeEEEEEEc---C---CCcEEEEEC------CccChhCE-EEEEEEEECCCcEEeeEEEEEEecCCCCe
+Q 5GNIA_5GNIB     233 KPQHQMLFYKDDVLFYQISS---M---KSTESYFIP------EVRIYDSG-TYKCTVIVNNKEKTTAEYQLLVEGVPSPR  299 (394)
+Q Consensus       233 ~~~~~~~w~k~~~~~~~~~~---~---~~~~~l~i~------~~~~~d~G-~Y~C~~~~~~~~~~s~~~~l~v~~~~~p~  299 (394)
+                      .....+.|.|||..+.....   .   ....+|.+.      .....+.| .|+|.+......   .++.+.........
+T Consensus       150 P~~i~V~W~~nG~~vt~gv~~~~~~~~~~D~tY~~sS~L~v~~~ew~~~~~~ytC~V~H~sl~---~~~~~~~~~~~~~~  226 (238)
+T no_name_0       150 PDHVELSWWVNGKEVHSGVSTDPQAYKESNYSYCLSSRLRVSATFWHNPRNHFRCQVQFHGLS---EEDKWPEGSPKPVT  226 (238)
+Confidence            46789999999998764221   1   112345444      23333456 699999876542   33333322111111
+
+
+Q ss_pred             EEcCCccccCCCEEEEEEEeCCCCCCeEEEEEECC
+Q 5GNIA_5GNIB     300 VTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKLE  334 (394)
+Q Consensus       300 ~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~~  334 (394)
+                      ...  ....-|..                     +
+T Consensus       227 ~~~--~~~~~~~~---------------------~  238 (238)
+T no_name_0       227 QNI--SAEAWGRA---------------------D  238 (238)
+Confidence            110  00000000                     0
+
+
+No 44
+>no_name_0
+Probab=71.07  E-value=0.0019  Score=37.94  Aligned_cols=109  Identities=14%  Similarity=0.137  Sum_probs=53.3  Template_Neff=10.861
+
+Q ss_pred             CccCCCeEEEEcCCcEEeCCCCEEEEEEEEccCCCCCCcEEEEEECCEEEEEEec---c---CCeEEEEEC------CCc
+Q 5GNIA_5GNIB       1 SFTINSVDMKSLPDWTVQNGKQLTLQCFADVSTTSKPQHQMLFYKDDVLFYQISS---M---KSTESYFIP------EVR   68 (394)
+Q Consensus         1 ~~~~~~~~l~~~p~~~v~~G~~v~l~C~~~~~~~~~~~~~~~w~k~~~~~~~~~~---~---~~~~~l~i~------~~~   68 (394)
+                      ......+.....+......+..++|.|.+..-.  .....+.|.|||+.+.....   .   ....+|.+.      ...
+T Consensus       117 ~~~~~~~~~~~~~~~~~~~~~~~~l~C~~~~Fy--P~~i~V~W~~nG~~vt~gv~~~~~~~~~~D~tY~~sS~L~v~~~e  194 (238)
+T no_name_0       117 QVTPPKVSLFEPSKAEIANKQKATLVCLARGFF--PDHVELSWWVNGKEVHSGVSTDPQAYKESNYSYCLSSRLRVSATF  194 (238)
+Confidence            001122233344555667888999999987654  36789999999998764321   1   112345544      222
+
+
+Q ss_pred             CccCE-EEEEEEEECCCceecceEEEEECCCCCCEEecCcceEcCCCcEEEEEEcCCCCCCeEEEEEECC
+Q 5GNIA_5GNIB      69 IYDSG-TYKCTVIVNNKEKTTAEYQLLVEGVPSPRVTLDKKEAIQGGIVRVQCSVPEEKAPIHFTIEKLE  137 (394)
+Q Consensus        69 ~~d~G-~Y~C~~~~~~~~~~s~~~~l~v~~~~~~~~~~~~~~v~~g~~vtl~C~~~~~~~~~~~~w~~~~  137 (394)
+                      ..+.| .|+|.+.-...   ..++.+............  ....-|..                     +
+T Consensus       195 w~~~~~~ytC~V~H~sl---~~~~~~~~~~~~~~~~~~--~~~~~~~~---------------------~  238 (238)
+T no_name_0       195 WHNPRNHFRCQVQFHGL---SEEDKWPEGSPKPVTQNI--SAEAWGRA---------------------D  238 (238)
+Confidence            33456 69999886643   223333222111111100  00000000                     0
+
+
