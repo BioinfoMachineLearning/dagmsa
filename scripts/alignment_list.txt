@@ -1,3 +1,0 @@
-./homotrimer/homotrimer_out_test_2/tmpdir/1RERA/1RERA_aln.pir
-./homotrimer/homotrimer_out_test_2/tmpdir/1RERB/1RERB_aln.pir
-./homotrimer/homotrimer_out_test_2/tmpdir/1RERC/1RERC_aln.pir
