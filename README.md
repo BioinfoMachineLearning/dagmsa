@@ -35,7 +35,11 @@ This software was developed and tested using python, perl and other dependent so
 
 The following python dependencies (packages) are needed for the code to execute:
 
-    (1) H5py 2.9.0
+    (1) H5py 
+
+    (2) Modeller 10.0 or above
+
+    (3) Biopython
 
 
 Besides the python packages, In order to generate features for the deep learning predictor, the following software tools are necessary:
