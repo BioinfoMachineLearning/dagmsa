@@ -39,18 +39,27 @@ sh ./create_conda_env.sh
 ```
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> eeb6a64 (aaaa)
 ### 3. Run the installer
 The following will install the entire software including all required databases:
 ```
 sh ./install_dagmsa.sh --db
 ```
+<<<<<<< HEAD
 If you do not wish to download the databases then simply run `sh ./install_dagmsa.sh`
 If you wish to download the databases separately just run `sh ./download_db.sh`
 DAGMSA is now ready to run.
 =======
+=======
+>>>>>>> eeb6a64 (aaaa)
 
-The following python dependencies (packages) are needed for the code to execute:
+If you do not wish to download the databases then simply run `sh ./install_dagmsa.sh`
+If you wish to download the databases separately just run `sh ./download_db.sh`
+DAGMSA is now ready to run.
 
+<<<<<<< HEAD
     (1) H5py 
 
     (2) Modeller 10.0 or above
@@ -68,6 +77,8 @@ Besides the python packages, In order to generate features for the deep learning
 
     (4) Modeller searchable PDB template database list (https://salilab.org/modeller/downloads/pdball.pir.gz)
 >>>>>>> 20be917353a94ecfe24aa120364cde3110dd47cc
+=======
+>>>>>>> eeb6a64 (aaaa)
 
 ### Usage
 The software takes as input a text file `<fasta_list.txt>` and an output folder `<outdir>`.
