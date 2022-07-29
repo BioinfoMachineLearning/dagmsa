@@ -49,7 +49,7 @@ If you wish to download the databases separately just run `sh ./download_db.sh`
 DAGMSA is now ready to run.
 
 
-### Usage
+## Running/Usage
 The software takes as input a text file `<fasta_list.txt>` and an output folder `<outdir>`.
 Please make sure that the `<fasta_list.txt>` file contains a list of the full paths of the fasta files ordered according to the respective chains. The following is an example:
 ```
