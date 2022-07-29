@@ -58,7 +58,7 @@ Please make sure that the `<fasta_list.txt>` file contains a list of the full pa
 /path/to/fasta/file/monomer_3.fasta
 ```
 
-Use any tool either Modeller or HHsuite to generate the MSA of the individual monomers. Then put them in a single folder and add the file names into an input text file then run the following command:
+Run DAGMSA using the following command:
 
 ```
 #Usage
