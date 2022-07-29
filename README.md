@@ -3,7 +3,8 @@ DAGMSA: Directed Acyclic Graph-based Multiple Sequence Alignments (MSA) for Prot
 
 MSA is an important feature of proteins that can illustrate similarities and differences between protein sequences and provide us with co-evolution information which is useful for de novo structure prediction. Although it is relatively easy to obtain MSA of monomeric proteins with many tools available to do so, there are very few tools available for multimeric MSA generation due to the existance of many paralogues and the lack of interacting homologues for higher order multimers. Here we present a new tool called DAGMSA which can be used to generate multiple sequence alignment of higher order oligomers which can complement structure predicting software like Alphafold2-multimer (AF2\_M) as well as template-based modelling tools. 
 
-(imgs/example_heterodimer.png)
+![IMG](imgs/example_heterodimer.png)
+
 ##                  Downloading DAGMSA            
 
 Just type the following command to download the software.
