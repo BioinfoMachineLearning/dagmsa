@@ -1,0 +1,2 @@
+/media/farhan/D3/githubs/dagmsa/example/1A1M/1A1MA.fasta
+/media/farhan/D3/githubs/dagmsa/example/1A1M/1A1MB.fasta
